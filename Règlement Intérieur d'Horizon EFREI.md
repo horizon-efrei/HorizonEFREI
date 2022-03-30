@@ -263,4 +263,4 @@ Lu et approuvé, le 30/03/2022
 Mélisande GRÉGOIRE--BEGRANGER, Secrétaire Générale\
 Lu et approuvé, le 30/03/2022
 
-- [ ] M.GB.
+- [X] M.GB.
