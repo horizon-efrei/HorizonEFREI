@@ -496,7 +496,7 @@ Lu et approuvé, le 30/03/2022
 Nada NADIRE, Trésorière\
 Lu et approuvé, le 30/03/2022
 
-- [ ] N.N.
+- [X] N.N.
 
 Mélisande GRÉGOIRE--BEGRANGER, Secrétaire Générale\
 Lu et approuvé, le 30/03/2022
