@@ -40,8 +40,8 @@ Personne ne demandant la parole, l'Assemblée Générale a pu continuer. La Secr
 - **3e délibération :** Le Président de séance rappelle que conformément aux Statuts qui viennent d’être approuvés, le Conseil d'Adminstration (ou Bureau) est composé d’au moins trois membres. L’Assemblée Générale Constitutive désigne ainsi, en qualité de premiers membres du Conseil d'Adminstration :
 
     - Ivan Thomas Maximilien Esmer STEPANIAN, domicilié au ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛, étudiant de nationalité française **en tant que Président** ;
+    - Nada NADIRE, domiciliée au ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛, étudiante de nationalité marocaine en tant que Secrétaire Générale ;
     - Guillaume GOMEZ, domicilié au ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛, étudiant de nationalité française **en tant que Trésorier** ;
-    - Nada NADIRE, domiciliée au ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛, étudiante de nationalité française en tant que Secrétaire Générale ;
     - David Michael GORGETTE, domicilié au ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛, étudiant de nationalité française **en tant que Vice-Président** ;
     - Elliot Théo Lucas MAISL, domicilié au ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛, étudiant de nationalité française **en tant que Vice-Président**.
 
