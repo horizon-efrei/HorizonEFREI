@@ -1,5 +1,5 @@
 <div style="text-align: center; margin-top: -0.4cm; font-size: 30px; line-height: 1.3; font-weight: 600;">
-Règlement intérieur d'Horizon EFREI<br>du 30 mars 2022
+Règlement Intérieur d'Horizon EFREI<br>du 30 mars 2022
 </div>
 
 <div style="margin-top: 0.7cm; margin-bottom: 0.7cm; text-align: center; font-weight: 500; font-size: 28px;">
