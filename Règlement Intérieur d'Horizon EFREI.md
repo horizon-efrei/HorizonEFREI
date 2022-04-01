@@ -2,10 +2,6 @@
 Règlement Intérieur d'Horizon EFREI<br>du 30 mars 2022
 </div>
 
-<div style="margin-top: 0.7cm; margin-bottom: 0.7cm; text-align: center; font-weight: 500; font-size: 28px;">
-<u>SOMMAIRE</u>
-</div>
-
 - [**<u>DOCUMENTS OFFICIELS DE L'ASSOCIATION</u>**](#udocuments-officiels-de-lassociationu)
   - [**ARTICLE I - Documents Officiels de l'Association**](#article-i---documents-officiels-de-lassociation)
   - [**ARTICLE II - Modification des Documents Officiels de l'Association**](#article-ii---modification-des-documents-officiels-de-lassociation)
@@ -24,9 +20,8 @@ Règlement Intérieur d'Horizon EFREI<br>du 30 mars 2022
     - [7.2. Comptes sur les réseaux sociaux](#72-comptes-sur-les-réseaux-sociaux)
     - [7.3. Dépôts et espaces de partage de ressources](#73-dépôts-et-espaces-de-partage-de-ressources)
     - [7.4. Site Web Horizon](#74-site-web-horizon)
-  - [**ARTICLE VIII - Pôles et Clubs de l'Association**](#article-viii---pôles-et-clubs-de-lassociation)
+  - [**ARTICLE VIII - Pôles de l'Association**](#article-viii---pôles-de-lassociation)
     - [8.1. Modification des Pôles de l'Association](#81-modification-des-pôles-de-lassociation)
-    - [8.2. Création d'un Club Associatif](#82-création-dun-club-associatif)
 - [**<u>AUTRES</u>**](#uautresu)
   - [**ARTICLE IX - Confidentialité des informations collectées**](#article-ix---confidentialité-des-informations-collectées)
   - [**ARTICLE X - Validité et application du présent Règlement Intérieur**](#article-x---validité-et-application-du-présent-règlement-intérieur)
@@ -50,6 +45,8 @@ Parmi les Documents Officiels, seuls les Statuts et les Procès-Verbaux d'Assemb
 Les Bilans Moraux et Comptables peuvent être joints en annexe aux Procès-Verbaux d'Assemblées Générales.
 
 Les Documents Officiels de l'Association doivent être archivés sur le Dépôt Public des Documents Officiels de l'Association.
+
+Les informations personnelles doivent être caviardées des Documents Officiels de l'Association. Les Documents Officiels doivent être signés avec une signature manuscrite (qui peut simplement être une suite de lettres et n'a pas besoin d'être la signature légale du Membre du Bureau, conformément à la loi numéro 2000-230 du 13 mars 2000 portant adaptation du droit de la preuve aux technologies de l'information et relative à la signature électronique) précédée d'une mention "lu et approuvé le [date de ratification]", manuscrite également.
 
 ### **ARTICLE II - Modification des Documents Officiels de l'Association**
 
@@ -141,7 +138,7 @@ via :
 
 #### 6.1. Mentorat Horizon
 
-Le Mentorat Horizon met en relation des étudiants mentorés (qualifiés de "juniors") et des étudiants mentorants (qualifiés de "mentors"). Cette mise en relation se fait via la plateforme de discussion "Horizon : Mentorat 🌱" et a pour événement clé une permanence hebdomadaire qui a lieu sur le campus d'EFREI PARIS.
+Le Mentorat Horizon met en relation des étudiants mentorés (qualifiés de "juniors") et des étudiants d'années plus avancés qui les soutiennent et mentorent (qualifiés de "mentors"). Cette mise en relation se fait via la plateforme de discussion "Horizon : Mentorat 🌱" et a pour événement clé une permanence hebdomadaire qui a lieu sur le campus d'EFREI PARIS.
 
 À chaque séance, la présence doit être prise en compte par le responsable du Mentorat de la semaine.
 
@@ -182,11 +179,11 @@ L'Association a trois regroupements de dépôts sur Google Workspace (gestion in
 
 #### 7.4. Site Web Horizon
 
-L'Association développe et maintient le site internet [horizon-efrei.fr/](horizon-efrei.fr/), plateforme étudiante des étudiants d'EFREI Paris, co-administrée par Horizon EFREI et EFREI Paris.
+L'Association développe et maintient le site internet [horizon-efrei.fr/](horizon-efrei.fr/), plateforme étudiante des étudiants d'EFREI PARIS, co-administrée par Horizon EFREI et EFREI PARIS.
 
-*Cette section devra être mise à jour lors du lancement officiel [horizon-efrei.fr/](horizon-efrei.fr/), décrivant les responsabilités d'Horizon EFREI et EFREI Paris concernant l'administration de la plateforme, ainsi que les autres ramifications légales relatives à l'activité de la plateforme.*
+*Cette section devra être mise à jour lors du lancement officiel [horizon-efrei.fr/](horizon-efrei.fr/), décrivant les responsabilités d'Horizon EFREI et EFREI PARIS concernant l'administration de la plateforme, ainsi que les autres ramifications légales relatives à l'activité de la plateforme.*
 
-### **ARTICLE VIII - Pôles et Clubs de l'Association**
+### **ARTICLE VIII - Pôles de l'Association**
 
 L'Association est actuellement composée de 5 Pôles :
 
@@ -196,9 +193,9 @@ L'Association est actuellement composée de 5 Pôles :
 
 -  Le Pôle Mentorat : le Pôle gère la plateforme "Horizon : Mentorat 🌱", orchestre la gestion du Mentorat Horizon, l'organisation régulière de séances de travail et le partage de ressources en rapport avec le Mentorat.
 
-- Le Pôle Communication et Design : le Pôle gère les comptes sur les réseaux sociaux de l'Association et y publie régulièrement des communications présentant les projets et événements de l'Association. Le Pôle produit également des affiches, des flyers ainsi que des courtes vidéos, et s'occupe d'acheter et de distribuer les goodies de l'Association. Le Pôle organise également des événéments de communication et gère le stand représentant Horizon EFREI à des événéments inter-associations.
+- Le Pôle Communication et Design : le Pôle gère les comptes sur les réseaux sociaux de l'Association et y publie régulièrement des communications présentant les projets et événements de l'Association. Le Pôle produit également des affiches, des flyers ainsi que des courtes vidéos, et s'occupe d'acheter et de distribuer les goodies de l'Association. Le Pôle organise également des événements de communication et gère le stand représentant Horizon EFREI à des événements inter-associations.
 
-- Le Pôle Vidéo : le Pôle gère la vérification, le montage et la mise à disposition des des cours et sessions de révision enregistrés par Horizon EFREI, et peut assister le Pôle Communication et Design dans sa création de contenu audio-visuel.
+- Le Pôle Vidéo : le Pôle gère la vérification, le montage et la mise à disposition des cours et sessions de révision enregistrés par Horizon EFREI, et peut assister le Pôle Communication et Design dans sa création de contenu audio-visuel.
 
 #### 8.1. Modification des Pôles de l'Association
 
@@ -209,28 +206,6 @@ Un Pôle peut être supprimé si ses tâches peuvent être déléguées à un Re
 Si l'Association manque drastiquement de Membres pour un mandat, un Pôle peut aussi fusionner avec un autre, ou alors arrêter ses fonctions jusqu'à ce qu'un mandat suivant puisse le relancer. S'il reste seulement deux Pôles dans l'Association et que l'équipe pense devoir en supprimer un de nouveau, la dissolution de l'Association peut être envisagée.
 
 Un Pôle peut être ajouté tant qu'il n'y a pas déjà huit Pôles dans l'Association. La pertinence de l'ajout de ce Pôle doit avoir été débattue, validée et ratifiée en Assemblée Générale. La liste des Pôles doit être gardée à jour dans le Règlement Intérieur.
-
-#### 8.2. Création d'un Club Associatif
-
-Un Club Associatif est une structure de l'Association qui permet à un secteur d'activité de l'Association d'avoir sa propre organisation et une autonomie d'action maximale, sans avoir à créer une association loi de 1901 parallèle à Horizon EFREI.
-
-Un Club Associatif a son propre Bureau Restreint et gère en autonomie son activité. Il dispose de son propre Règlement Intérieur qui prime sur l'application des Statuts et du Règlement Intérieur d'Horizon EFREI sur le Club Associatif.
-
-Le Club Associatif est alors autonome ; cependant :
-
-- Le Club Associatif doît épouser des objectifs qui s'insère dans l'objet de l'Association ;
-- Le Club Associatif partage le même compte bancaire que l'Association et doit gérer sa comptabilité en commun avec celle de l'Association ;
-- Le Club Associatif doît être actif et collaborer avec l'Association ;
-
-Si un Club Associatif devient inactif, il doit être supprimé. S'il désire devenir complètement indépendant de l'Association, il doit être assisté par l'Association dans sa procédure d'obtention du statut d'association loi 1901. La décision doit être débattue, validée et ratifiée en Assemblée Générale.
-
-Un Club Associatif peut avoir ses propres Clubs Associatifs, avec des dispositions statuaires particulières à définir dans le Règlement Intérieur du Club Associatif parent et enfant.
-
-L'ajout d'un Club Associatif devra résulter en l'ajout d'un Article relatif au Club dans les Statuts de l'Association, avec des sections relatives à sa modification et sa suppression éventuelles.
-
-Le Club devra composer son propre Règlement Intérieur avant sa création.
-
-Le Règlement Intérieur du Club pourra être joint en Annexe aux Statuts de l'Association dans des déclarations au Greffe au même titre que le Règlement Intérieur d'Horizon EFREI.
 
 ## **<u>AUTRES</u>**
 
@@ -244,23 +219,17 @@ Seule la liste des civilités, prénoms, noms et autres informations d'identific
 
 Les présents Statuts s'appliquent à tous les membres ; tout manquement aux précédents Statuts pourra être sanctionné par les Membres du Bureau.
 
-Le présent règlement comporte 10 articles et est établi sur 10 pages.
+Le présent Règlement Intérieur comporte 10 articles et est établi sur 9 pages.
 
-(Chaque signataire fera précéder sa signature, manuscrite ou non, de la mention « Lu et approuvé », manuscrite ou non)
+(Chaque signataire fera précéder sa signature manuscrite de la mention manuscrite « Lu et approuvé le [date de ratification] »)
 
-Signatures des Membres du Bureau Restreint:
+Signatures des Membres du Bureau Restreint :
 
 Ivan STEPANIAN, Président\
-Lu et approuvé, le 30/03/2022
-
-- [X] I.S.
+<img alt="Ivan STEPANIAN" src="Signatures/AGO%20du%2030%20mars%202022/Signature_Ivan.png" width="250" />
 
 Nada NADIRE, Trésorière\
-Lu et approuvé, le 30/03/2022
-
-- [X] N.N.
+<img alt="Nada NADIRE" src="Signatures/AGO%20du%2030%20mars%202022/Signature_Nada.png" width="250" />
 
 Mélisande GRÉGOIRE--BEGRANGER, Secrétaire Générale\
-Lu et approuvé, le 30/03/2022
-
-- [X] M.GB.
+<img alt="Mélisande GRÉGOIRE--BEGRANGER" src="Signatures/AGO%20du%2030%20mars%202022/Signature_Mélisande.png" width="250" />

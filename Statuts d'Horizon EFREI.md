@@ -1,49 +1,43 @@
-<div style="text-align: center; margin-top: -0.4cm; font-size: 30px; line-height: 1.3; font-weight: 600;">
-Statuts d'Horizon EFREI<br>du 30 mars 2022
-</div>
+# **Statuts d'Horizon EFREI du 1er avril 2022**
 
-<div style="margin-top: 0.7cm; margin-bottom: 0.7cm; text-align: center; font-weight: 500; font-size: 28px;">
-<u>SOMMAIRE</u>
-</div>
-
-- [**<u>INFORMATIONS LÉGALES DE L'ASSOCIATION</u>**](#uinformations-légales-de-lassociationu)
-  - [**ARTICLE I - Constitution et titre de l'Association**](#article-i---constitution-et-titre-de-lassociation)
-  - [**ARTICLE II - Assemblée Générale Constitutive**](#article-ii---assemblée-générale-constitutive)
-  - [**ARTICLE III - Siège social et adresse de gestion**](#article-iii---siège-social-et-adresse-de-gestion)
-  - [**ARTICLE IV - Durée de l'Association et exercice social**](#article-iv---durée-de-lassociation-et-exercice-social)
-  - [**ARTICLE V - Objet de l'Association**](#article-v---objet-de-lassociation)
-    - [5.1. But](#51-but)
-    - [5.2. Modification de l'objet de l'Association](#52-modification-de-lobjet-de-lassociation)
-    - [5.3. Ressources](#53-ressources)
-  - [**ARTICLE VI - Dissolution**](#article-vi---dissolution)
-- [**<u>ORGANISATION ET MEMBRES DE L'ASSOCIATION</u>**](#uorganisation-et-membres-de-lassociationu)
-  - [**ARTICLE VII - Conseil d'Administration (Bureau)**](#article-vii---conseil-dadministration-bureau)
-    - [7.1. Bureau Restreint](#71-bureau-restreint)
-    - [7.2. Responsabilités et Destitution des Membres (et Adjoints aux Membres) du Bureau Restreint](#72-responsabilités-et-destitution-des-membres-et-adjoints-aux-membres-du-bureau-restreint)
-    - [7.3. Bureau Étendu et Pôles](#73-bureau-étendu-et-pôles)
-    - [7.4. Responsabilités et Destitution des Reponsables de Pôle et Responsables Chargés](#74-responsabilités-et-destitution-des-reponsables-de-pôle-et-responsables-chargés)
-  - [**ARTICLE VIII - Membres**](#article-viii---membres)
-    - [8.1. Types de Membres](#81-types-de-membres)
-    - [8.2. Preuve d'activité](#82-preuve-dactivité)
-    - [8.3 Membres du Bureau](#83-membres-du-bureau)
-    - [8.4. Membres de Pôle](#84-membres-de-pôle)
-    - [8.5. Membres Temporaires](#85-membres-temporaires)
-    - [8.6. Membres Participants](#86-membres-participants)
-    - [8.7. Membres Anciens](#87-membres-anciens)
-    - [8.8. Admission et renouvellement d'adhésion](#88-admission-et-renouvellement-dadhésion)
-    - [8.9. Radiation d'un Membre](#89-radiation-dun-membre)
-  - [**ARTICLE IX - Réunions et Assemblées**](#article-ix---réunions-et-assemblées)
-    - [9.1. Réunion de Pôle](#91-réunion-de-pôle)
-    - [9.2. Assemblée du Bureau](#92-assemblée-du-bureau)
-    - [9.3. Assemblée Générale](#93-assemblée-générale)
-    - [9.4. Assemblée Générale Ordinaire](#94-assemblée-générale-ordinaire)
-    - [9.5. Assemblée Générale Extraordinaire](#95-assemblée-générale-extraordinaire)
-    - [9.6. Vote](#96-vote)
-- [**<u>PRÉSENTS STATUTS</u>**](#uprésents-statutsu)
-  - [**ARTICLE X - Gestion des Statuts et du Règlement Intérieur**](#article-x---gestion-des-statuts-et-du-règlement-intérieur)
-  - [**ARTICLE XI - Validité et application des présents Statuts**](#article-xi---validité-et-application-des-présents-statuts)
-
-<div style="height: 40px;"></div>
+- [**Statuts d'Horizon EFREI du 1er avril 2022**](#statuts-dhorizon-efrei-du-1er-avril-2022)
+  - [**<u>INFORMATIONS LÉGALES DE L'ASSOCIATION</u>**](#uinformations-légales-de-lassociationu)
+    - [**ARTICLE I - Constitution et titre de l'Association**](#article-i---constitution-et-titre-de-lassociation)
+    - [**ARTICLE II - Assemblée Générale Constitutive**](#article-ii---assemblée-générale-constitutive)
+    - [**ARTICLE III - Siège social et adresse de gestion**](#article-iii---siège-social-et-adresse-de-gestion)
+    - [**ARTICLE IV - Durée de l'Association et exercice social**](#article-iv---durée-de-lassociation-et-exercice-social)
+    - [**ARTICLE V - Objet de l'Association**](#article-v---objet-de-lassociation)
+      - [5.1. But](#51-but)
+      - [5.2. Modification de l'objet de l'Association](#52-modification-de-lobjet-de-lassociation)
+      - [5.3. Ressources](#53-ressources)
+    - [**ARTICLE VI - Dissolution**](#article-vi---dissolution)
+  - [**<u>ORGANISATION ET MEMBRES DE L'ASSOCIATION</u>**](#uorganisation-et-membres-de-lassociationu)
+    - [**ARTICLE VII - Conseil d'Administration (Bureau)**](#article-vii---conseil-dadministration-bureau)
+      - [7.1. Bureau Restreint](#71-bureau-restreint)
+      - [7.2. Responsabilités et Destitution des Membres (et Adjoints aux Membres) du Bureau Restreint](#72-responsabilités-et-destitution-des-membres-et-adjoints-aux-membres-du-bureau-restreint)
+      - [7.3. Bureau Étendu et Pôles](#73-bureau-étendu-et-pôles)
+      - [7.4. Responsabilités et Destitution des Responsables de Pôle et Responsables Chargés](#74-responsabilités-et-destitution-des-responsables-de-pôle-et-responsables-chargés)
+    - [**ARTICLE VIII - Membres**](#article-viii---membres)
+      - [8.1. Types de Membres](#81-types-de-membres)
+      - [8.2. Preuve d'activité](#82-preuve-dactivité)
+      - [8.3 Membres du Bureau](#83-membres-du-bureau)
+      - [8.4. Membres de Pôle](#84-membres-de-pôle)
+      - [8.5. Membres Temporaires](#85-membres-temporaires)
+      - [8.6. Membres Participants](#86-membres-participants)
+      - [8.7. Membres Anciens](#87-membres-anciens)
+      - [8.8. Admission et renouvellement d'adhésion](#88-admission-et-renouvellement-dadhésion)
+      - [8.9. Radiation d'un Membre](#89-radiation-dun-membre)
+    - [**ARTICLE IX - Réunions et Assemblées**](#article-ix---réunions-et-assemblées)
+      - [9.1. Réunion de Pôle](#91-réunion-de-pôle)
+      - [9.2. Assemblée du Bureau](#92-assemblée-du-bureau)
+      - [9.3. Assemblée Générale](#93-assemblée-générale)
+      - [9.4. Assemblée Générale Ordinaire](#94-assemblée-générale-ordinaire)
+      - [9.5. Assemblée Générale Extraordinaire](#95-assemblée-générale-extraordinaire)
+      - [9.6. Vote](#96-vote)
+    - [**ARTICLE X - Clubs Associatifs**](#article-x---clubs-associatifs)
+  - [**<u>PRÉSENTS STATUTS</u>**](#uprésents-statutsu)
+    - [**ARTICLE XI - Gestion des Statuts et du Règlement Intérieur**](#article-xi---gestion-des-statuts-et-du-règlement-intérieur)
+    - [**ARTICLE XII - Validité et application des présents Statuts**](#article-xii---validité-et-application-des-présents-statuts)
 
 ## **<u>INFORMATIONS LÉGALES DE L'ASSOCIATION</u>**
 
@@ -53,7 +47,7 @@ Statuts d'Horizon EFREI<br>du 30 mars 2022
 
 En date du 21 novembre 2021 a été fondée entre les adhérents aux présents Statuts, et ceux qui y adhéreront ultérieurement, une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901 ayant pour dénomination : "Horizon EFREI".
 
-L'association a pour nom d'usage "Horizon" ou, par synecdoche de sa plateforme principale, "Ef'Réussite", et sera appelée dans ce texte "l'Association" ou "Horizon EFREI".
+L'association a pour nom d'usage "Horizon" ou, par synecdoque de sa plateforme principale, "Ef'Réussite", et sera appelée dans ce texte "l'Association" ou "Horizon EFREI".
 
 ### **ARTICLE II - Assemblée Générale Constitutive**
 
@@ -61,11 +55,11 @@ L'Assemblée Générale Constitutive (ou AGC) du 21 novembre 2021 a marqué la f
 
 Les Membres Fondateurs sont :
 
--   Ivan Thomas Maximilien Esmer STEPANIAN, domicilié au ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛, étudiant de nationalité française, en tant que Président ;
--   Nada NADIRE, domiciliée au ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛, étudiante de nationalité marocaine, en tant que Secrétaire Générale ;
--   Guillaume GOMEZ, domicilié au ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛, étudiant de nationalité française, en tant que Trésorier ;
--   David Michael GORGETTE, domicilié au ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛, étudiant de nationalité française, en tant que Vice-Président ;
--   Elliot Théo Lucas MAISL, domicilié au ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛, étudiant de nationalité française, en tant que Vice-Président.
+-   Ivan Thomas Maximilien Esmer STEPANIAN, en tant que Président ;
+-   Nada NADIRE, en tant que Secrétaire Générale ;
+-   Guillaume GOMEZ, en tant que Trésorier ;
+-   David Michael GORGETTE, en tant que Vice-Président ;
+-   Elliot Théo Lucas MAISL, en tant que Vice-Président.
 
 Les détails relatifs à la constitution de l'Association se trouvent dans le "Procès-Verbal de l'Assemblée Générale Constitutive du 21 novembre 2021 d'Horizon EFREI".
 
@@ -83,7 +77,7 @@ Le siège social est fixé au 30-32 Avenue de la République, 94800 Villejuif, a
 
 Le siège social d'Horizon EFREI ne pourra être changé qu'en cas de dissolution d'EFREI PARIS, de fusion d'EFREI PARIS avec une autre entité, ou dans le cas d'une redéfinition fondamentale de l'Association ou d'EFREI PARIS.
 
-Toute modification du siège social doit faire l'objet d'une déclaration au greffe des associations du département du précédent siège (et, si le département du nouveau siège social est différent de l'ancien, faire lieu d'une seconde déclaration au greffe des associations du nouveau département) pour une nouvelle publication au Journal Officiel, ainsi que d'une déclaration à l'Insee : le numéro SIRET de l'Association devra alors être mis à jour.
+Toute modification du siège social doit faire l'objet d'une déclaration au greffe des associations du département du précédent siège (et, si le département du nouveau siège social est différent de l'ancien, faire l'objet d'une seconde déclaration au greffe des associations du nouveau département) pour une nouvelle publication au Journal Officiel, ainsi que d'une déclaration à l'Insee : le numéro SIRET de l'Association devra alors être mis à jour.
 
 Ci-après désigné par "Greffe", le greffe des associations du département du siège social actuel de l'Association.
 
@@ -101,11 +95,11 @@ L'Association a pour objet de
 
 (conformément au "Procès-Verbal de l'Assemblée Générale Constitutive du 21 novembre 2021 d'Horizon EFREI")
 
-Les détails des moyens de l'association sont décrits dans le Règlement Intérieur de l'Association : "ARTICLE VI - Moyens de l'Association".
+Les détails des moyens de l'association sont décrits dans le [Règlement Intérieur de l'Association : "ARTICLE VI - Moyens de l'Association"](Règlement%20Intérieur%20d'Horizon%20EFREI.md#article-vi---moyens-et-activités-de-lassociation).
 
 #### 5.2. Modification de l'objet de l'Association
 
-Les buts et les activités de l'Association sont susceptibles d'évoluer au fur et à mesure du développement du projet associatif et peuvent faire l'objet d'une modification tant qu'ils correspondent toujours à l'objet initial
+Les buts et les activités de l'Association sont susceptibles d'évoluer au fur et à mesure du développement du projet associatif et peuvent faire l'objet d'une modification tant qu'ils correspondent toujours à l'objet initial :
 
 > "développer la collaboration étudiante [à EFREI PARIS], initier et soutenir des projets collaboratifs d'étudiants ou impactant les étudiants de l'école d'ingénieurs EFREI PARIS".
 
@@ -115,7 +109,7 @@ L'objet initial lui-même, défini et statué solennellement durant l'Assemblée
 -   l'Association développe une activité qui est désormais davantage reconnue que la collaboration étudiante et la création (ou le soutien) de projets étudiants (ou de projets impactant des étudiants qui ne sont pas maintenus par des étudiants)
 -   l'Association est forcée par EFREI PARIS ou par la Loi de changer son objectif.
 
-Une pareille modification nécessitera une validation de l'ensemble du Bureau (chaque membre disposant d'un droit de véto) ainsi que d'un quorum en Assemblé Générale.
+Une pareille modification nécessitera une validation de la majorité du Bureau ainsi que d'une majorité des Membres Adhérents en Assemblé Générale.
 
 #### 5.3. Ressources
 
@@ -132,17 +126,17 @@ Il sera tenu au minimum une comptabilité en recettes et dépenses de toutes les
 
 Si l'Association obtient des recettes commerciales et que le montant annuel de ces recettes excède 72 432 €, l'association doit en avertir le centre des finances publiques compétent pour son siège social et devra déclarer son bilan comptable.
 
-Si l'Association perçoit plus de 153 000 € de dons ou de subventions par an, elle doit nommer un commissaire aux comptes et publier ses comptes auJournal Officiel.
+Si l'Association perçoit plus de 153 000 € de dons ou de subventions par an, elle doit nommer un commissaire aux comptes et publier ses comptes au Journal Officiel.
 
-La gestion de la trésorerie est décrite dans le Règlement Intérieur de l'Association : "ARTICLE III - Gestion de la trésorerie".
-
-<div style="height: 5px;"></div>
+La gestion de la Trésorerie est décrite dans le [Règlement Intérieur de l'Association : "ARTICLE IV - Gestion de la Trésorerie"](Règlement%20Intérieur%20d'Horizon%20EFREI.md#article-iv---gestion-de-la-trésorerie).
 
 ### **ARTICLE VI - Dissolution**
 
 En cas de dissolution prononcée selon les modalités prévues à l'article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901, un ou plusieurs liquidateurs sont nommés par les Membres du Bureau Restreint, et l'actif net, s'il y a lieu, ne peut être dévolu à un Membre de l'Association, même partiellement, sauf reprise d'un apport.
 
 Le reste de l'actif net sera dévolu à une association ayant des buts similaires conformément aux décisions de l'Assemblée Générale Extraordinaire qui statue sur la dissolution.
+
+<div style="height: 20px;"></div>
 
 ## **<u>ORGANISATION ET MEMBRES DE L'ASSOCIATION</u>**
 
@@ -170,7 +164,7 @@ Les trois Membres du Bureau Restreint doivent figurer seuls dans les déclaratio
 
 Suite à toute Assemblée Générale Ordinaire (même si le Bureau Restreint reste inchangé), ou suite à tout changement de la composition du Bureau Restreint, une nouvelle déclaration de la liste des dirigeants doit être faite au Greffe, à faire sous un délai de trois mois.
 
-Une déclaration de la liste des dirigeants doit également être faite à EFREI PARIS, par le biais de son Responsable de la Vie Associative si applicable, ou par le biais du responsable équivalent sinon, sous un délai d'une semaine.
+Une déclaration de la liste des dirigeants doit également être faite à EFREI PARIS, par le biais de son Responsable de la Vie Associative si applicable, ou sinon, via un responsable équivalent, sous un délai d'une semaine.
 
 Chaque Membre du Bureau Restreint peut élire à tout moment durant son mandat, si cela est pertinent, un (ou plusieurs) Adjoint(s), communément appelé(s) "Vice(s)", pour l'épauler. Les Adjoints aux Membres du Bureau Restreint font partie du Bureau Étendu.
 
@@ -211,7 +205,7 @@ Le Secrétaire doit avoir une orthographe et une grammaire irréprochables ainsi
 
 Avec la gestion informatisée actuelle des documents de l'Association, le Secrétaire est généralement épaulé d'un Secrétaire Adjoint (ou Vice-Secrétaire) avec un profil technique, qui assiste le Secrétaire dans cette gestion informatisée (amélioration du versionnage des documents, de la documentation expliquant le fonctionnement de la modification collaborative, gestion du dépôt public des documents administratifs...) de l'administration de l'Association.
 
-Le Trésorier épaule le Président dans l'organisation de la trésorerie et la gestion financière de l'Association. Le Trésorier :
+Le Trésorier épaule le Président dans l'organisation de la Trésorerie et la gestion financière de l'Association. Le Trésorier :
 - s'assure de la concordance des comptes, de la caisse et des inventaires de l'Association à chaque début de mandat,
 - compose la demande de subventions initiale en début d'année,
 - rédige les demandes régulières de déblocage de subvention,
@@ -221,9 +215,9 @@ Le Trésorier épaule le Président dans l'organisation de la trésorerie et la 
 
 Avec la gestion informatisée actuelle des comptes de l'Association, le Trésorier est généralement épaulé d'un Trésorier Adjoint (ou Vice-Trésorier) avec un profil technique, qui assiste le Trésorier dans cette gestion informatisée (numérisation des factures, gestion et amélioration des modèles de comptes, tenue du compte en banque en ligne de l'Association).
 
-Les Membres du Bureau Restreint et Adjoints aux Membres du Bureau Restreint sont mandataires de l'Association et tiennent leur pouvoir des présents Statuts ; il leur incombe d'en prendre connaissance et de les appliquer. L'intérêt des Membres de l'Association et le respect des présents Statuts priment par dessus toute autre considération. Du fait de la nature de leur rôle, il s'engage à tenir leurs engagements légaux, à être responsables et contactables pour toute la durée de leur mandat et à trouver une succession en tenant le reste du Bureau Restreint au courant s'ils ne peuvent plus accomplir leurs tâches. Tout manquement à ces responsabilités est un motif valable de disqualification du mandat du Membre du Bureau Restreint ou de son Adjoint.
+Les Membres du Bureau Restreint et Adjoints aux Membres du Bureau Restreint sont mandataires de l'Association et tiennent leur pouvoir des présents Statuts ; il leur incombe d'en prendre connaissance et de les appliquer. L'intérêt des Membres de l'Association et le respect des présents Statuts priment au-delà de toute autre considération. Du fait de la nature de leur rôle, il s'engage à tenir leurs engagements légaux, à être responsables et contactables pour toute la durée de leur mandat et à trouver une succession en tenant le reste du Bureau Restreint au courant s'ils ne peuvent plus accomplir leurs tâches. Tout manquement à ces responsabilités est un motif valable de disqualification du mandat du Membre du Bureau Restreint ou de son Adjoint.
 
-Un Membre du Bureau Restreint peut être démis de ses fonctions durant une Assemblée Générale conviée par un groupe d'au moins cinq Membres Adhérents ou par les deux autres Membres du Bureau Restreint. Le Membre du Bureau Restreint est démissionné si un quorum des Membres votent pour sa démission.
+Un Membre du Bureau Restreint peut être démis de ses fonctions durant une Assemblée Générale Extraordinaire conviée par un groupe d'au moins cinq Membres Adhérents ou par les deux autres Membres du Bureau Restreint. Le Membre du Bureau Restreint est démissionné si une majorité des Membres Adhérents votent pour sa démission durant l'Assemblée Générale Extraordinaire.
 
 Un Adjoint à un Membre du Bureau Restreint peut être démis de ses fonctions en Assemblée du Bureau.
 
@@ -231,15 +225,15 @@ Un Adjoint à un Membre du Bureau Restreint peut être démis de ses fonctions e
 
 L'Association est divisée en plusieurs Pôles, des organes chargés de gérer une activité spécifique de l'Association. Chaque Pôle a un Responsable de Pôle, nommé en Assemblée Générale Ordinaire ou par le Bureau en début de mandat durant une Assemblée du Bureau ou à la suite de la démission du précédent Responsable de Pôle.
 
-Dans le cas où il n'est pas possible de trouver une personne prête à prendre le rôle de Responsable de Pôle, deux Membres Adhérents du Pôle peuvent devenir Co-Responsables. Ils se partagent alors les tâches d'un Responsable de Pôle. Cependant, seul un des deux Co-Responsables doit représenter le Pôle au sein du Bureau.
+Dans le cas où il ne serait pas possible de trouver une personne prête à prendre le rôle de Responsable de Pôle, deux Membres Adhérents du Pôle peuvent devenir Co-Responsables. Ils se partagent alors les tâches d'un Responsable de Pôle. Cependant, seul un des deux Co-Responsables doit représenter le Pôle au sein du Bureau.
 
 Le Bureau Étendu est composé des Responsables de Pôles (et des Co-Responsables assignés), des Adjoints aux Membres du Bureau Restreint et des Responsables Chargés.
 
-Les Responsables Chargés sont des Membres Adhérents responsables d'une activité interne (cohésion, direction des systèmes d'information, partenariats, par exemple) mais qui n'ont pas d'équipe avec laquelle ils doivent organiser régulièrement des réunions ; ils travaillent en autonomie sur leur activité. Cependant, s'il s'avère qu'ils ont besoin d'une équipe, ils peuvent demander de l'assistance à des Membres Adhérents, en leur proposant de réaliser des tâches clairement définies, ou une nouvelle campagne de recrutement peut être lancée par le Bureua pour composer un nouveau Pôle.
+Les Responsables Chargés sont des Membres Adhérents responsables d'une activité interne (cohésion, direction des systèmes d'information, partenariats, par exemple) mais qui n'ont pas d'équipe avec laquelle ils doivent organiser régulièrement des réunions ; ils travaillent en autonomie sur leur activité. Cependant, s'il s'avère qu'ils ont besoin d'une équipe, ils peuvent demander de l'assistance à des Membres Adhérents, en leur proposant de réaliser des tâches clairement définies, ou une nouvelle campagne de recrutement peut être lancée par le Bureau pour composer un nouveau Pôle.
 
-#### 7.4. Responsabilités et Destitution des Reponsables de Pôle et Responsables Chargés
+#### 7.4. Responsabilités et Destitution des Responsables de Pôle et Responsables Chargés
 
-Chaque Pôle doit avoir au minimum trois Membres Adhérents. Les Responsables de Pôle sont libres de gérer comme ils le souhaitent leur Pôle (avec par exemple des sous-responsables, différents rôles au sein du Pôle). Si un Pôle a moins de trois Membres Adhérents, le Responsable de Pôle devient Responsable Chargé.
+Chaque Pôle doit avoir au minimum trois Membres Adhérents. Les Responsables de Pôle sont libres de gérer leur Pôle comme ils le souhaitent (avec par exemple des sous-responsables, différents rôles au sein du Pôle). Si un Pôle a moins de trois Membres Adhérents, le Responsable de Pôle devient Responsable Chargé.
 
 Les Responsables de Pôle (et Co-Responsables) doivent :
 
@@ -281,7 +275,7 @@ Seuls les Membres Adhérents disposent du droit de vote en Assemblée Générale
 
 Si la contribution d'un Membre à Horizon EFREI sort du cadre de celui de Pôles déjà existants, la création d'un Pôle ou d'un Club Associatif peut être considérée ; si le Membre peut travailler seul, en autonomie sur son projet et qu'il s'agit d'un projet lié à l'objet ou à la gestion interne de l'Association, il peut rejoindre le Bureau en tant que Responsable Chargé pour se consacrer à son projet.
 
-Les Membres de l'Association dispose d'un canal de discussion où ils peuent avoir accès aux actualités de l'Association (pour être prévenus des Assemblées Générales et événéments à venir, pouvoir suivre les annonces et être tenus au courant des tâches à faire) ; les Membres du Bureau doivent s'assurer que tous les Membres de l'Association ont accès à ce canal et que ce canal est alimenté en annonces régulièrement.
+Les Membres de l'Association disposent d'un canal de discussion où ils peuvent avoir accès aux actualités de l'Association (pour être prévenus des Assemblées Générales et événements à venir, pouvoir suivre les annonces et être tenus au courant des tâches à faire) ; les Membres du Bureau doivent s'assurer que tous les Membres de l'Association ont accès à ce canal et que ce canal est alimenté en annonces régulièrement.
 
 #### 8.2. Preuve d'activité
 
@@ -342,9 +336,9 @@ Les Membres Anciens n'ont pas de droit de vote en Assemblée Générale, mais po
 
 #### 8.8. Admission et renouvellement d'adhésion
 
-L'adhésion à l'Association est soumise à l'adhésion aux présents Statuts. Pour devenir Membre, il faut d'abord soumettre un bulletin d'adhésion ou rentrer en contact avec un Membre du Bureau, puis être agréé par un Membre du Bureau Restreint ou par le Responsable du Pôle qui intéresse le nouveau Membre. Un refus d'adhésion par le Membre du Bureau Restreint ou le Responsable de Pôle doit être justifié.
+L'adhésion à l'Association est soumise à l'adhésion aux présents Statuts, qui doivent être lus et acceptés par tout nouvel adhérent. Pour devenir Membre Adhérent, il faut d'abord soumettre un bulletin d'adhésion ou rentrer en contact avec un Membre du Bureau, puis être agréé par un Membre du Bureau Restreint ou par le Responsable du Pôle qui intéresse le nouveau Membre. Un refus d'adhésion par le Membre du Bureau Restreint ou le Responsable de Pôle doit être justifié.
 
-Un nouveau Membre admis prend le rôle de Membre Temporaire.
+Un nouveau Membre admis prend le rôle de Membre Temporaire jusqu'à ce qu'il participe à ses deux premières réunions ; il devient ensuite Membre Adhérent.
 
 Les nouveaux Membres de Pôle gardent leur rôle pour une durée indéterminée. Les nouveaux Membres du Bureau gardent leur rôle jusqu'à la prochaine Assemblée Générale Ordinaire. L'adhésion des Membres Adhérents est automatiquement renouvelée chaque mandat, mais les rôles des Membres du Bureau ne sont pas renouvelés automatiquement (il faut que les Membres se présentent de nouveau pour leur poste).
 
@@ -353,10 +347,10 @@ Les nouveaux Membres de Pôle gardent leur rôle pour une durée indéterminée.
 La qualité de Membre Adhérent, Ancien ou Temporaire se perd par :
 
 -   démission adressée par écrit au Président de l'Association ou aux Responsables des Pôles dont fait partie le Membre ;
--   exclusion prononcée par un quorum d'une Assemblée du Bureau, qui statue souverainement, pour comportement ou agissement portant préjudice matériel ou moral à l'Association, ou tout autre raison prononcée par le Bureau dans l'intérêt de l'Association.
+-   exclusion prononcée par une majorité des Membres du Bureau en Assemblée du Bureau, qui statue souverainement, pour comportement ou agissement portant préjudice matériel ou moral à l'Association, ou tout autre raison prononcée par le Bureau dans l'intérêt de l'Association.
 -   le décès ou l'incapacité complète du Membre ;
 
-Un Membre Adhérent ayant démissionné pour un motif personnel impérieux (manque de temps personnel, trop d'engagements, conflit irrémédiable avec une personne au sein de l'Association), qui a justifié sa démission auprès d'un Membre du Bureau Restreint, ou qui a terminé son année de mandat à Horizon EFREI est considérée comme ayant démissionnée "en bons termes", et peut prétendre au rôle de Membre Ancien.
+Un Membre Adhérent ayant démissionné pour un motif personnel impérieux (manque de temps personnel, trop d'engagements, conflit irrémédiable avec une personne au sein de l'Association), qui a justifié sa démission auprès d'un Membre du Bureau Restreint, ou qui a terminé son année de mandat à Horizon EFREI est considéré comme ayant démissionné "en bons termes", et peut prétendre au rôle de Membre Ancien.
 
 ### **ARTICLE IX - Réunions et Assemblées**
 
@@ -364,7 +358,7 @@ Un Membre Adhérent ayant démissionné pour un motif personnel impérieux (manq
 
 Un Responsable de Pôle organise régulièrement des Réunions de Pôle avec les Membres Adhérents de son Pôle pour distribuer des tâches à son équipe et faire un suivi de leur travail.
 
-Les comptes-rendus des Réunions de Pôle sont enregistrés dans l'espace des documents administratifs de l'Association mais ne sont pas considérés comme des Documents Officiels de l'Association. La présence doit être tenue sur le compte-rendu et tous les points majeurs abordés durant la réunion doivent y être enregistrés.
+Les comptes-rendus des Réunions de Pôle sont enregistrés dans l'espace des documents administratifs de l'Association, mais ne sont pas considérés comme des Documents Officiels de l'Association. La présence à une réunion doit être tenue sur le compte-rendu et tous les points majeurs abordés durant la réunion doivent y être enregistrés.
 
 La présence de tous les Membres d'un Pôle à une Réunion du dit Pôle est requise, sauf en cas de motif d'absence impérieux, ou si le Responsable de Pôle précise à l'avance que la réunion n'a pas besoin d'inclure tous les Membres du Pôle. Peuvent être invités aux Réunions de Pôle d'autres Membres Adhérents avec l'accord du Responsable de Pôle.
 
@@ -409,20 +403,20 @@ Tout le monde peut intervenir lors de l'Assemblée en prenant la parole. Cependa
 
 #### 9.4. Assemblée Générale Ordinaire
 
-Une Assemblée Générale Ordinaire (AGO), ou Passation, doit avoir lieu le 15 mars de chaque année. Elle a pour but de présenter le Bilan Moral et Comptable de l'Association (décrit dans le Règlement Intérieur de l'Association : "ARTICLE I - Documents Officiels de l'Association"), d'élire le nouveau Bureau de l'Association, de faire des propositions de modifications des Statuts et de statuer sur les sujets remontés par les Membres Adhérents.
+Une Assemblée Générale Ordinaire (AGO), ou Passation, doit avoir lieu le 15 mars de chaque année. Elle a pour but de présenter le Bilan Moral et Comptable de l'Association (décrit dans le [Règlement Intérieur de l'Association : "ARTICLE I - Documents Officiels de l'Association"](Règlement%20Intérieur%20d'Horizon%20EFREI.md#article-i---documents-officiels-de-lassociation)), d'élire le nouveau Bureau de l'Association, de faire des propositions de modifications des Statuts et de statuer sur les sujets remontés par les Membres Adhérents.
 
 En amont de l'Assemblée Générale Ordinaire, il est nécessaire de préparer le Bilan Moral et Comptable de l'Association pour l'année passée, présentant les activités réalisées, l'évolution de l'équipe et l'utilisation des fonds de l'Association durant l'année.
 
 Il est également nécessaire que le Bureau présente un nouveau Bureau à élire. Un appel à candidature doit être passé dès le 22 février ; les candidatures seront réceptionnées jusqu'au 10 mars dernier délai. Parmi les candidats pour chaque poste, un seul doit être sélectionné au travers d'entretiens organisés par deux Membres du précédent Bureau (un Membre du Bureau Restreint, en général le Secrétaire, et le Membre du Bureau qui a le rôle qui correspond le mieux à celui que le candidat souhaite prendre). Si une seule candidature est présentée pour un poste, le candidat est automatiquement sélectionné. Les candidats sélectionnés constitueront le nouveau Bureau présenté pour l'élection en Assemblée Générale.
 
-Il est impératif que le nouveau Bureau présenté ait les trois Membres du Bureau Restreint ainsi qu'au moins deux Responsables de Pôle définis ; les autres rôles du nouveau Bureau peuvent rester innocupés pour l'Assemblée Générale Ordinaire et être remplis plus tard durant le nouveau mandat.
+Il est impératif que le nouveau Bureau présenté ait les trois Membres du Bureau Restreint ainsi qu'au moins deux Responsables de Pôle définis ; les autres rôles du nouveau Bureau peuvent rester inoccupés pour l'Assemblée Générale Ordinaire et être remplis plus tard durant le nouveau mandat.
 
 L'ordre du jour de l'Assemblée Générale Ordinaire est le suivant :
 
 -   présentation du Bilan Moral et Comptable de l'année passée ;
 -   présentation du nouveau Bureau ;
 -   vote des Membres Adhérents sur la constitution du nouveau Bureau ;
--   si un quorum n'est pas atteint, un débat a lieu suivi d'un nouveau vote ; si le vote est de nouveau non-favorable, le vote est reporté à une date ultérieure, jusqu'au 31 mars ;
+-   si une majorité de votes favorables n'est pas atteinte, un débat a lieu suivi d'un nouveau vote ; si le vote est de nouveau non-favorable, le vote est reporté à une date ultérieure, jusqu'au 31 mars ;
 -   présentation des propositions de modifications des Statuts ;
 -   vote des Membres sur les propositions de modifications des Statuts ;
 -   suite de l'ordre du jour de l'Assemblée Générale Ordinaire, où sont abordés les points soulevés par les Membres Adhérents.
@@ -433,9 +427,11 @@ Le nouveau Bureau élu (pouvant être inchangé de l'ancien) prend ses fonctions
 
 #### 9.5. Assemblée Générale Extraordinaire
 
-L'Assemblée Générale Extraordinaire (AGE) est compétente pour modifier les Statuts, décider de la destitution du Bureau, décider de la dissolution de l'association de l'Association ou de sa fusion avec une autre et est compétente pour gérer des situations urgentes nécessitant une validation par quorum des Membres Adhérents.
+L'Assemblée Générale Extraordinaire (AGE) est compétente pour modifier les Statuts, décider de la destitution du Bureau, décider de la dissolution de l'association de l'Association ou de sa fusion avec une autre et est compétente pour gérer des situations urgentes nécessitant une validation par une majorité des Membres Adhérents.
 
 Dans le cas d'une Assemblée Générale Extraordinaire dite "urgente", qui est dans l'impossibilité d'être annoncée plus tôt, l'annonce peut se faire la veille (mais doit justifier de son urgence) ; en cas d'Assemblée Générale Extraordinaire urgente, les Membres Adhérents qui ne peuvent pas être présents n'ont pas nécessairement besoin de voter par procuration (à cause de la courte date limite pour la transmettre).
+
+Cinq Membres Adhérents peuvent se réunir pour demander à ce qu'une Assemblée Générale Extraordinaire soit conviée pour qu'un vote majoritaire statue sur le sujet remonté, si cela est pertinent.
 
 Une Assemblée Générale Extraordinaire connaît :
 
@@ -448,57 +444,79 @@ Une Assemblée Générale Extraordinaire connaît :
 
 Le vote des Membres Adhérents est un vote simple, où les Membres Adhérents peuvent voter pour ou contre un point de l'ordre du jour ou alors voter blanc. Le vote d'un Membre Adhérent compte pour un, additionné au nombre de procurations de vote dont le Membre Adhérent est responsable. Si le Membre Adhérent est responsable de procurations, il peut éventuellement les diviser en des votes "oui", "non" et blancs.
 
+Les votes en Assemblées du Bureau n'inclus pas le vote blanc.
+
+Les abstentions sont considérées à part des votes blancs et n'affectent pas les votes. Un Membre Adhérent présent en ligne à une Assemblée qui s'est abstenu pour chaque disposition et ne s'est pas exprimé est par défaut considéré comme absent à l'Assemblée.
+
+Des abstentions répétées peuvent être un motif pour qu'un Membre Adhérent devienne Membre Temporaire. Le vote blanc permet aux Membres sans opinion ou ne souhaitant pas prendre position de s'exprimer ; l'abstention est considéré comme un manquement à son devoir.
+
 Une majorité de votes blancs invalide un vote. En cas de vote invalidé, un débat a lieu et un nouveau vote prend place durant une même séance. Si le vote est toujours invalidé par un vote blanc, le sujet est considéré comme non-traité et pourra être présenté de nouveau au cours d'une nouvelle séance.
 
-Si la majorité des votes ne sont pas blancs, un quorum est calculé parmi les votes non-blancs : si une majorité absolue de ces votes est "oui", la décision votée est acceptée. Sinon, la décision votée est refusée. En cas d'égalité entre les votes "oui" et "non", la voix du Président compte double.
+Si la majorité des votes ne sont pas blancs, on considère les votes non-blancs : si une majorité absolue de ces votes est "oui", la décision votée est acceptée. Sinon, la décision votée est refusée. En cas d'égalité entre les votes "oui" et "non", la voix du Président compte double.
 
-Si un Membre Adhérent n'a pas fait de procuration et n'est pas présent durant une Assemblée Générale, son vote n'est pas compté.
+Si un Membre Adhérent n'a pas fait de procuration et n'est pas présent durant une Assemblée Générale, son vote ne peut pas être compté rétroactivement.
 
-Toute décision prise en Assemblée doit être validée par quorum et être ratifiée dans un compte-rendu pour les Assemblée de Bureau ou dans un Procès-Verbal pour les Assemblées Générales.
+Toute décision prise en Assemblée doit être validée par une majorité des Membres Adhérents et être ratifiée dans un compte-rendu pour les Assemblée de Bureau ou dans un Procès-Verbal pour les Assemblées Générales.
+
+### **ARTICLE X - Clubs Associatifs**
+
+Un Club Associatif est une structure de l'Association qui permet à un secteur d'activité de l'Association d'avoir sa propre organisation et une autonomie d'action maximale, sans avoir à créer une association loi de 1901 parallèle à Horizon EFREI.
+
+Un Club Associatif a son propre Bureau Restreint et gère en autonomie son activité. Il dispose de son propre Règlement Intérieur qui prime sur l'application des Statuts et du Règlement Intérieur d'Horizon EFREI sur le Club Associatif tant que ce Règlement Intérieur est conforme à la loi du 1er juillet 1901 relative au contrat d'association, et qu’il respecte le code civil.
+
+Le Club Associatif est alors autonome ; cependant :
+
+- Le Club Associatif doît épouser des objectifs qui s'insère dans l'objet de l'Association ;
+- Le Club Associatif partage le même compte bancaire que l'Association et doit gérer sa comptabilité en commun avec celle de l'Association ;
+- Le Club Associatif doît être actif et collaborer avec l'Association ;
+
+Si un Club Associatif devient inactif, il doit être supprimé. S'il désire devenir indépendant de l'Association, il doit être assisté par l'Association dans sa procédure d'obtention du statut d'association loi 1901. La création d'une fédération d'associations doit être considérée. La décision doit être débattue, validée et ratifiée en Assemblée Générale.
+
+Un Club Associatif peut avoir ses propres Clubs Associatifs, avec des dispositions statuaires particulières à définir dans le Règlement Intérieur du Club Associatif parent et enfant.
+
+L'ajout d'un Club Associatif devra résulter en l'ajout d'une section relatif au Club à cet Article, avec des aliéneas relatives au statut de ces membres au sein d'Horizon EFREI, à sa modification et à sa suppression.
+
+Le Club devra composer son propre Règlement Intérieur avant sa création qui pourra être joint en Annexe aux Statuts de l'Association dans des déclarations au Greffe au même titre que le Règlement Intérieur d'Horizon EFREI.
+
+<div style="height: 20px;"></div>
 
 ## **<u>PRÉSENTS STATUTS</u>**
 
-### **ARTICLE X - Gestion des Statuts et du Règlement Intérieur**
+### **ARTICLE XI - Gestion des Statuts et du Règlement Intérieur**
 
-Le Bureau peut proposer des modiciations des Statuts de l'Association, qui doivent être validées en Assemblée du Bureau puis ratifiées en Assemblée Générale.
+Tous les Membres peuvent proposer des modifications des Statuts et du Règlement Intérieur de l'Association (via le Dépôt Public des Documents Officiels de l'Association, cf. ["ARTICLE III - Dépôt Public des Documents Officiels de l'Association" du Règlement Intérieur](Règlement%20Intérieur%20d'Horizon%20EFREI.md#article-iii---dépôt-public-des-documents-officiels-de-lassociation)), qui doivent être validées en Assemblée du Bureau puis ratifiées en Assemblée Générale.
 
 Les Articles I à VIII sont nécessaires conformément à l'alinéa 2 de l'article 5 de la loi du 1er juillet 1901, statuant sur le titre, l'objet et les dirigeants de l'Association, et clarifiant le concept de Conseil d'Administration (Bureau) et d'Assemblée Générale. Ils ne peuvent être supprimés sans être remplacés par des Articles statuant sur les concepts qu'ils définissaient précédemment. Leur modification doit se faire avec prudence et en complète conscience des conséquences légales et juridiques que leur modification pourrait engendrer.
 
-Les autres Articles et concepts définis dans les Statuts sont nécessaires pour la bonne exécution des fonctions de l'Association, mais peuvent être modifiés plus librement si leur modification est pertinente. Les Statuts ne doivent pas contenir d'informations éphémères ; les informations et règles qui pourraient avoir vertu à changer régulièrement durant la vie de l'Association doivent être placées dans le Règlement Intérieur de l'Association.
+Les autres Articles et concepts définis dans les Statuts sont nécessaires pour la bonne exécution des fonctions de l'Association, mais peuvent être modifiés plus librement si leur modification est pertinente. Les Statuts ne doivent pas contenir d'informations éphémères ; les informations et règles qui pourraient avoir vertu à changer régulièrement durant la vie de l'Association doivent être placées dans le [Règlement Intérieur de l'Association](Règlement%20Intérieur%20d'Horizon%20EFREI.md).
 
-Suite à chaque Assemblée Générale Ordinaire, changement de la composition du Bureau Restreint ou changement des Status, les Statuts doivent être lus et resigner par les (nouveaux) Membres du Bureau Restreint.
+Suite à chaque Assemblée Générale Ordinaire, changement de la composition du Bureau Restreint ou changement des Status, les Statuts doivent être lus et signer par les (nouveaux) Membres du Bureau Restreint.
 
 Toute modification ratifiée du titre ou de l'objet de l'Association doit être déclarée au Greffe et faire l'objet d'une nouvelle publication au Journal Officiel. Toute autre modification des Statuts doit simplement être déclarée au Greffe. Les errata et autres corrections des Statuts n'ont pas besoin d'être envoyés immédiatement, mais peuvent être transmises au Greffe en même temps que des modifications plus conséquentes suite à une Assemblée Générale.
 
 La modification d'un Article doit faire l'objet d'une justification dans le Procès-Verbal de l'Assemblée Générale qui statue sur la modification de l'Article. Les errata et corrections orthographiques n'ont pas besoin de faire l'objet d'une justification.
 
-La gestion informatisée des Statuts est décrite dans le Règlement Intérieur de l'Association : "ARTICLE III - Dépôt Public des Documents Officiels de l'Association".
+La gestion informatisée des Statuts est décrite dans le [Règlement Intérieur de l'Association](Règlement%20Intérieur%20d'Horizon%20EFREI.md).
 
 Les Articles peuvent être renommés et déplacés au sein des Statuts, sans justification nécessaire, mais le renommage ou déplacement doit être pertinent.
 
-Un Article dont l'ajout est jugé pertinent par une majorité de membres en Assemblée Générale au règles de l'Association peut être ajouté directement aux Statuts s'il apporte des informations critiques à l'objet de l'Association ou son organisation interne ; sinon, il devra être ajouté au Règlement Intérieur.
+Un Article dont l'ajout est jugé pertinent (par une majorité de membres en Assemblée Générale) aux règles de l'Association peut être ajouté directement aux Statuts s'il apporte des informations critiques à l'objet de l'Association ou son organisation interne ; sinon, il devra être ajouté au [Règlement Intérieur](Règlement%20Intérieur%20d'Horizon%20EFREI.md).
 
-### **ARTICLE XI - Validité et application des présents Statuts**
+### **ARTICLE XII - Validité et application des présents Statuts**
 
 Les présents Statuts s'appliquent à tous les membres ; tout manquement aux précédents Statuts pourra être sanctionné par les Membres du Bureau.
 
-Le présent règlement comporte 11 articles et est établi sur 18 pages.
+Les présents Statuts comportent 12 articles et sont établis sur 18 pages.
 
-(Chaque signataire fera précéder sa signature, manuscrite ou non, de la mention « Lu et approuvé », manuscrite ou non)
+(Chaque signataire fera précéder sa signature manuscrite de la mention manuscrite « Lu et approuvé le [date de ratification] »)
 
 Signatures des Membres du Bureau Restreint :
 
 Ivan STEPANIAN, Président\
-Lu et approuvé, le 30/03/2022
-
-- [X] I.S.
+<img alt="Ivan STEPANIAN" src="Signatures/AGO%20du%2030%20mars%202022/Signature_Ivan.png" width="250" />
 
 Nada NADIRE, Trésorière\
-Lu et approuvé, le 30/03/2022
-
-- [X] N.N.
+<img alt="Nada NADIRE" src="Signatures/AGO%20du%2030%20mars%202022/Signature_Nada.png" width="250" />
 
 Mélisande GRÉGOIRE--BEGRANGER, Secrétaire Générale\
-Lu et approuvé, le 30/03/2022
-
-- [X] M.GB.
+<img alt="Mélisande GRÉGOIRE--BEGRANGER" src="Signatures/AGO%20du%2030%20mars%202022/Signature_Mélisande.png" width="250" />
