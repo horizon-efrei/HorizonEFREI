@@ -134,7 +134,7 @@ David GORGETTE et Vincent LABOURET soulignent qu’il faut qu’un seul compte s
 #### Résultats du vote : 26 POUR, 1 CONTRE, 4 BLANC, 7 ABSTENTIONS (et par procuration : 8 POUR, 1 BLANC)
 ### TOTAL : **34 POUR, 1 CONTRE, 5 BLANC, 7 ABSTENTIONS**. La mesure est adoptée par vote majoritaire.
 
-Les Membres n'ayant pas davantage de questions. Le Président conclut en sensibilisant de nouveau les Membres Adhérents quant à l'importance de leur implication, la reconnaissance qu'il a envers eux et leur devoir d'être un contre-pouvoir s'ils observent une quelconque forme d'abus ou d'avillissement dans la gestion de l'Association. Le Président propose aux autres Membres du Bureau de dire quelques mots. David parle davantage des récompenses qu'il offrira aux eProfs durant le courant du nouveau mandat.
+Les Membres n'ayant pas davantage de questions, le Président conclut en sensibilisant de nouveau les Membres Adhérents quant à l'importance de leur implication, la reconnaissance qu'il a envers eux et leur devoir d'être un contre-pouvoir s'ils observent une quelconque forme d'abus ou d'avillissement dans la gestion de l'Association. Le Président propose aux autres Membres du Bureau de dire quelques mots. David parle davantage des récompenses qu'il offrira aux eProfs durant le courant du nouveau mandat.
 
 Les Membres du Bureau s'étant exprimés, le Président clot la séance.
 
