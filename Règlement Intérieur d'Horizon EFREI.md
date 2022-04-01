@@ -39,7 +39,7 @@ Règlement Intérieur d'Horizon EFREI<br>du 30 mars 2022
 
 Les Documents Officiels de l'Association Horizon EFREI incluent :
 
-- <u>Les Statuts</u>, un document unique, susceptible d'être modifié au cours de la vie de l'Association, qui vient compléter les articles de la loi du 1er juillet 1901 pour définir légalement l'Association et statuer sur la marche à suivre pour la bonne réalisation de ses activité ;
+- <u>Les Statuts</u>, un document unique, susceptible d'être modifié au cours de la vie de l'Association, qui vient compléter les articles de la loi du 1er juillet 1901 pour définir légalement l'Association et statuer sur la marche à suivre pour la bonne réalisation de ses activités ;
 - <u>Le Règlement Intérieur</u>, le présent document, document unique, modifié régulièrement au cours de la vie de l'Association, venant compléter les Statuts pour définir, formaliser et lister les activités, les plateformes et les pratiques au sein de l'Association ;
 - <u>Les Procès-Verbaux d'Assemblées Générales</u>, des documents produits durant chaque Assemblée Générale, rendant compte de la présence, des ordres du jour et des décisions prises en Assemblée Générale avec la validation d'une majorité des Membres Adhérents de l'Association ;
 - <u>Les Bilans Moraux et Comptables</u>, des documents produits à l'occasion de chaque Assemblée Générale Ordinaire, rendant compte de la situation morale, financière et juridique de l'Association pour chaque mandat.
