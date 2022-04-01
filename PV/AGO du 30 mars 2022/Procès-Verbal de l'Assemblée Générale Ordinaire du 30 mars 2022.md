@@ -116,16 +116,16 @@ Le Président précise que la version des Statuts qui est désormais votée est 
 
 Le Président présente ensuite brièvement le nouveau Règlement Intérieur en résumant les points les plus importants : le Dépôt Public des Documents Officiels de l’Association sur GitHub, la possibilité de la création d’un Club Associatif et la confidentialité des données des Membres de l’Association.
 
-### **4ème délibération** : Les membres sont appelés à voter pour ou contre la proposition de mise en place d’un Règlement Intérieur.
+### **4ème délibération** : Les membres sont appelés à voter pour ou contre la proposition de mise en place du Règlement Intérieur.
 
 Vincent LABOURET affirme :
-que les signatures présentes sur les Statuts doivent obligatoirement être les mêmes que celles présentes sur les passeports des Membres signataires, selon la loi ;
-qu’il est nécessaire que l’Association mette à disposition les Statuts correspondants exactement à ceux déposés en préfecture (sans informations caviardés), selon la loi ; le Président précise que les informations sont caviardées à la demande des Membres concernés, qui ne souhaitent pas que des informations personnelles soient disponibles publiquement ;
-qu’il est nécessaire que l’Article concernant les Clubs soit présent dans les Statuts.
+- que les signatures présentes sur les Statuts doivent obligatoirement être les mêmes que celles présentes sur les passeports des Membres signataires, selon la loi ;
+- qu’il est nécessaire que l’Association mette à disposition les Statuts correspondants exactement à ceux déposés en préfecture (sans informations caviardés), selon la loi ; le Président précise que les informations sont caviardées à la demande des Membres concernés, qui ne souhaitent pas que des informations personnelles soient disponibles publiquement ;
+- qu’il est nécessaire que l’Article concernant les Clubs soit présent dans les Statuts.
 
 Le Président met en doute ces affirmations et demande à Vincent LABOURET de lui transmettre ses sources légales. Celui-ci n’est pas en capacité de le faire, ces affirmations seront vérifiées lors d’une expertise légale avec les juristes d’EFREI PARIS.
 
-Vincent LABOURET soulève également qu’il faudrait clarifier le rôle de Membre de Club, car tout Membre Adhérent d’un Club est aussi techniquement Membre de l’Association. Vincent souligne qu’en cas de litige avec un Club, l’Association sera tenue pour responsable légalement. Le Président clarification sera ajoutée, paraphrasant la formulation suivante : “le Règlement Intérieur du Club prime sur les Statuts et le Règlement Intérieur d’Horizon EFREI tant qu’il respecte lui-même la loi du 1er juillet 1901 relative au contrat d'association, et qu’il respecte le code civil”.
+Vincent LABOURET soulève également qu’il faudrait clarifier le rôle de Membre de Club, car tout Membre Adhérent d’un Club est aussi techniquement Membre de l’Association. Vincent souligne qu’en cas de litige avec un Club, l’Association sera tenue pour responsable légalement. Le Président propose qu'une clarification soit ajoutée, paraphrasant la formulation suivante : “le Règlement Intérieur du Club prime sur les Statuts et le Règlement Intérieur d’Horizon EFREI tant qu’il respecte lui-même la loi du 1er juillet 1901 relative au contrat d'association, et qu’il respecte le code civil”.
 
 Le Président précise que la version du Règlement Intérieur qui est désormais votée est celle qui contiendra, post facto, les modifications proposées précédemment.
 
