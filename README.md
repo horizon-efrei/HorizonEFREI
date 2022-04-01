@@ -10,8 +10,8 @@ Le README doit contenir une liste des documents officiels les plus importants de
 
 Documents présents sur ce dépôt :
 
-- [Dernière Version des Statuts d'Horizon EFREI](Statuts%20d'Horizon%20EFREI.md) (ou [pdf](Statuts%20d'Horizon%20EFREI.pdf)) [modifiés pour la dernière fois le 01/04/2022]
-- [Dernière Version du Règlement Intérieur d'Horizon EFREI](Règlement%20Intérieur%20d'Horizon%20EFREI.md) (ou [pdf](Règlement%20Intérieur%20d'Horizon%20EFREI.pdf)) [modifiés pour la dernière fois le 01/04/2022]
+- [Statuts d'Horizon EFREI](Statuts%20d'Horizon%20EFREI.md) (ou [pdf](Statuts%20d'Horizon%20EFREI.pdf)) [modifiés pour la dernière fois le 02/04/2022]
+- [Règlement Intérieur d'Horizon EFREI](Règlement%20Intérieur%20d'Horizon%20EFREI.md) (ou [pdf](Règlement%20Intérieur%20d'Horizon%20EFREI.pdf)) [modifié pour la dernière fois le 02/04/2022]
 - [PV d'AGC du 21/11/2021](PV/AGC%20du%2021%20novembre%202021/Procès-Verbal%20de%20l’Assemblée%20Générale%20Constitutive%20du%2021%20novembre%202021%20d’Horizon%20EFREI.md) (ou [pdf](PV/AGC%20du%2021%20novembre%202021/Procès-Verbal%20de%20l’Assemblée%20Générale%20Constitutive%20du%2021%20novembre%202021%20d’Horizon%20EFREI.pdf))
 - [AGO du 30/03/2022](PV/AGO%20du%2030%20mars%202022/)
   - [PV d'AGO du 30/03/2022](PV/AGO%20du%2030%20mars%202022/Procès-Verbal%20de%20l'Assemblée%20Générale%20Ordinaire%20du%2030%20mars%202022.md) (ou [pdf](PV/AGC%20du%2021%20novembre%202021/Procès-Verbal%20de%20l’Assemblée%20Générale%20Constitutive%20du%2021%20novembre%202021%20d’Horizon%20EFREI.pdf))
