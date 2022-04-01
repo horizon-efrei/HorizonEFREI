@@ -2,7 +2,7 @@
 Statuts d'Horizon EFREI<br>du 30 mars 2022
 </div>
 
-- [**<u>INFORMATIONS LÉGALES DE L'ASSOCIATION</u>**](#uinformations-légales-de-lassociationu)
+- [**INFORMATIONS LÉGALES DE L'ASSOCIATION**](#informations-légales-de-lassociation)
   - [**ARTICLE I - Constitution et titre de l'Association**](#article-i---constitution-et-titre-de-lassociation)
   - [**ARTICLE II - Assemblée Générale Constitutive**](#article-ii---assemblée-générale-constitutive)
   - [**ARTICLE III - Siège social et adresse de gestion**](#article-iii---siège-social-et-adresse-de-gestion)
@@ -12,7 +12,7 @@ Statuts d'Horizon EFREI<br>du 30 mars 2022
     - [5.2. Modification de l'objet de l'Association](#52-modification-de-lobjet-de-lassociation)
     - [5.3. Ressources](#53-ressources)
   - [**ARTICLE VI - Dissolution**](#article-vi---dissolution)
-- [**<u>ORGANISATION ET MEMBRES DE L'ASSOCIATION</u>**](#uorganisation-et-membres-de-lassociationu)
+- [**ORGANISATION ET MEMBRES DE L'ASSOCIATION**](#organisation-et-membres-de-lassociation)
   - [**ARTICLE VII - Conseil d'Administration (Bureau)**](#article-vii---conseil-dadministration-bureau)
     - [7.1. Bureau Restreint](#71-bureau-restreint)
     - [7.2. Responsabilités et Destitution des Membres (et Adjoints aux Membres) du Bureau Restreint](#72-responsabilités-et-destitution-des-membres-et-adjoints-aux-membres-du-bureau-restreint)
@@ -36,11 +36,11 @@ Statuts d'Horizon EFREI<br>du 30 mars 2022
     - [9.5. Assemblée Générale Extraordinaire](#95-assemblée-générale-extraordinaire)
     - [9.6. Vote](#96-vote)
   - [**ARTICLE X - Clubs Associatifs**](#article-x---clubs-associatifs)
-- [**<u>PRÉSENTS STATUTS</u>**](#uprésents-statutsu)
+- [**PRÉSENTS STATUTS**](#présents-statuts)
   - [**ARTICLE XI - Gestion des Statuts et du Règlement Intérieur**](#article-xi---gestion-des-statuts-et-du-règlement-intérieur)
   - [**ARTICLE XII - Validité et application des présents Statuts**](#article-xii---validité-et-application-des-présents-statuts)
 
-## **<u>INFORMATIONS LÉGALES DE L'ASSOCIATION</u>**
+## **INFORMATIONS LÉGALES DE L'ASSOCIATION**
 
 <div style="height: 5px;"></div>
 
@@ -139,7 +139,7 @@ Le reste de l'actif net sera dévolu à une association ayant des buts similaire
 
 <div style="height: 20px;"></div>
 
-## **<u>ORGANISATION ET MEMBRES DE L'ASSOCIATION</u>**
+## **ORGANISATION ET MEMBRES DE L'ASSOCIATION**
 
 <div style="height: 5px;"></div>
 
@@ -481,7 +481,7 @@ Le Club devra composer son propre Règlement Intérieur avant sa création qui p
 
 <div style="height: 20px;"></div>
 
-## **<u>PRÉSENTS STATUTS</u>**
+## **PRÉSENTS STATUTS**
 
 ### **ARTICLE XI - Gestion des Statuts et du Règlement Intérieur**
 

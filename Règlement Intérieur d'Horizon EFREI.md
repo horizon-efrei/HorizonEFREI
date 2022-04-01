@@ -2,17 +2,17 @@
 Règlement Intérieur d'Horizon EFREI<br>du 30 mars 2022
 </div>
 
-- [**<u>DOCUMENTS OFFICIELS DE L'ASSOCIATION</u>**](#udocuments-officiels-de-lassociationu)
+- [**DOCUMENTS OFFICIELS DE L'ASSOCIATION**](#documents-officiels-de-lassociation)
   - [**ARTICLE I - Documents Officiels de l'Association**](#article-i---documents-officiels-de-lassociation)
   - [**ARTICLE II - Modification des Documents Officiels de l'Association**](#article-ii---modification-des-documents-officiels-de-lassociation)
     - [2.1. Modification du Règlement Intérieur](#21-modification-du-règlement-intérieur)
     - [2.2. Modification des Procès-Verbaux d'Assemblées Générales et des Lettres Officielles](#22-modification-des-procès-verbaux-dassemblées-générales-et-des-lettres-officielles)
     - [2.3. Modification des Bilans Moraux et Comptables](#23-modification-des-bilans-moraux-et-comptables)
   - [**ARTICLE III - Dépôt Public des Documents Officiels de l'Association**](#article-iii---dépôt-public-des-documents-officiels-de-lassociation)
-- [**<u>GESTION INTERNE DE L'ASSOCIATION</u>**](#ugestion-interne-de-lassociationu)
+- [**GESTION INTERNE DE L'ASSOCIATION**](#gestion-interne-de-lassociation)
   - [**ARTICLE IV - Gestion de la Trésorerie**](#article-iv---gestion-de-la-trésorerie)
   - [**ARTICLE V - Gestion des Documents Administratifs de l'Association**](#article-v---gestion-des-documents-administratifs-de-lassociation)
-- [**<u>ORGANISATION ACTUELLE DE L'ASSOCIATION</u>**](#uorganisation-actuelle-de-lassociationu)
+- [**ORGANISATION ACTUELLE DE L'ASSOCIATION**](#organisation-actuelle-de-lassociation)
   - [**ARTICLE VI - Moyens et Activités de l'Association**](#article-vi---moyens-et-activités-de-lassociation)
     - [6.1. Mentorat Horizon](#61-mentorat-horizon)
   - [**ARTICLE VII - Plateformes de l'Association**](#article-vii---plateformes-de-lassociation)
@@ -22,13 +22,13 @@ Règlement Intérieur d'Horizon EFREI<br>du 30 mars 2022
     - [7.4. Site Web Horizon](#74-site-web-horizon)
   - [**ARTICLE VIII - Pôles de l'Association**](#article-viii---pôles-de-lassociation)
     - [8.1. Modification des Pôles de l'Association](#81-modification-des-pôles-de-lassociation)
-- [**<u>AUTRES</u>**](#uautresu)
+- [**AUTRES**](#autres)
   - [**ARTICLE IX - Confidentialité des informations collectées**](#article-ix---confidentialité-des-informations-collectées)
   - [**ARTICLE X - Validité et application du présent Règlement Intérieur**](#article-x---validité-et-application-du-présent-règlement-intérieur)
 
 <div style="height: 40px;"></div>
 
-## **<u>DOCUMENTS OFFICIELS DE L'ASSOCIATION</u>**
+## **DOCUMENTS OFFICIELS DE L'ASSOCIATION**
 
 ### **ARTICLE I - Documents Officiels de l'Association**
 
@@ -82,7 +82,7 @@ Les errata et corrections d'orthographe n'ont pas besoin de faire l'objet d'une 
 
 Les ajouts de Documents Officiels ratifiés (Procès-Verbaux, Bilan Moraux et Comptables) sont directement "commit" sur la branche "master" du dépôt.
 
-## **<u>GESTION INTERNE DE L'ASSOCIATION</u>**
+## **GESTION INTERNE DE L'ASSOCIATION**
 
 ### **ARTICLE IV - Gestion de la Trésorerie**
 
@@ -103,7 +103,7 @@ Après chaque Passation, une lettre de passation des pouvoirs bancaires du préc
 
 Tous les documents et ressources (photographies, images, tableurs, compte-rendus, fiches, modèles de documents...) de l'Association doivent être archivés dans le Dépôt de l'Équipe de l'Association, catégorisés correctement par secteur d'activité de l'Association.
 
-## **<u>ORGANISATION ACTUELLE DE L'ASSOCIATION</u>**
+## **ORGANISATION ACTUELLE DE L'ASSOCIATION**
 
 ### **ARTICLE VI - Moyens et Activités de l'Association**
 
@@ -207,7 +207,7 @@ Si l'Association manque drastiquement de Membres pour un mandat, un Pôle peut a
 
 Un Pôle peut être ajouté tant qu'il n'y a pas déjà huit Pôles dans l'Association. La pertinence de l'ajout de ce Pôle doit avoir été débattue, validée et ratifiée en Assemblée Générale. La liste des Pôles doit être gardée à jour dans le Règlement Intérieur.
 
-## **<u>AUTRES</u>**
+## **AUTRES**
 
 ### **ARTICLE IX - Confidentialité des informations collectées**
 
