@@ -39,9 +39,9 @@ Le Président rappelle que l’Assemblée Générale Ordinaire est appelée à s
 - Adoption des Statuts et du Règlement Intérieur ;
 - Dernières remarques et questions des Membres présents.
 
-En expliquant l'ordre du jour, le Président sensibilise les Membres présents quant à l'importance des Assemblées Générales : l'Association défend avant tout les intérêts de ses Membres et veille à la bonne réalisation du but de l'Assocaition ; si les Membres perçoivent des problèmes dans sa gestion, s'ils sont confus quant à sa gestion ou ses activités ou s'ils observent des abus de pouvoir de la part du Bureau, il est de leur devoir de s'exprimer et d'être un contre-pouvoir.
+En expliquant l'ordre du jour, le Président sensibilise les Membres présents quant à l'importance des Assemblées Générales : l'Association défend avant tout les intérêts de ses Membres et veille à la bonne réalisation du but de l'Assocaition ; si les Membres perçoivent des problèmes dans sa gestion, s'ils sont confus quant à sa gestion ou à ses activités, ou s'ils observent des abus de pouvoir de la part du Bureau, il est de leur devoir de s'exprimer et d'être un contre-pouvoir.
 
-Le Président ouvre le Bilan Moral en retraçant l’historique de l’association et en félicitant la soixantaine de Membres Adhérents actuels de l’Association qui ont eu confiance en ses projets. Le Président met en exergue la grande croissance de l’Association depuis la naissance d’Ef’Réussite (qui fêtait ses deux ans exactement durant la réunion), et les débuts du projet Horizon, qui commença en avril 2021.
+Le Président ouvre le Bilan Moral en retraçant l’historique de l’association et en félicitant la soixantaine de Membres Adhérents actuels de l’Association qui ont eu confiance en ses projets. Le Président met en exergue la grande croissance de l’Association depuis la naissance d’Ef’Réussite (qui fêtait ses deux ans exactement durant la réunion), et les débuts du projet Horizon, qui a commencé en avril 2021.
 
 David GORGETTE présente les eProfs (étudiants-profs, étudiants bénévoles qui organisent des séances de révision pour d'autres étudiants) et propose qu’un événement de cohésion soit organisé avec les eProfs. Le Président annonce que cela sera une possibilité aux alentours du mois de mai.
 
@@ -68,13 +68,13 @@ Le Président explique que la subvention a déjà été validée et reçue, mais
 #### Résultats du vote : 33 POUR, 3 CONTRE, 2 ABSTENTIONS (et par procuration : 8 POUR, 1 CONTRE). La mesure est adoptée par vote majoritaire.
 ### TOTAL : **41 POUR, 4 CONTRE, 2 ABSTENTIONS**. La mesure est adoptée par vote majoritaire.
 
-L’ancien bureau est brièvement présenté par le Président. On passe au nouveau bureau.
+L’ancien Bureau est brièvement présenté par le Président. On passe au nouveau Bureau.
 
 David GORGETTE est tout de suite interpellé de ne pas avoir son rôle de Vice-Président sur le nouvel organigramme, et proteste quant à ce qu’il perçoit comme un manque de communication en interne ; le Président lui rappelle que le poste a désormais changé (et inclut maintenant plusieurs nouvelles responsabilités) comme expliqué dans la nouvelle version des Statuts qui avait été transmise aux Membres de l’ancien Bureau Restreint, et qu’il ne souhaitait pas imposer ce poste aux membres qui avaient précédemment ce titre, qui était avant symbolique et consultatif. Il explique qu’il n’est plus raisonnable que des Membres du Bureau cumulent plusieurs rôles.
 
 David GORGETTE garde toujours le rôle de Vice-Président Fondateur, mais n’est pour l’instant plus Vice-Président de l’Association. Le rôle de Membre Fondateur est inaliénable.
 
-Les changements de postes sont expliqués : Théo LASNIER (sans rôle dans le précédent Bureau) passe Vice-Secrétaire, Mélisande GRÉGOIRE–BÉGRANGER (ex Vice-Secrétaire) passe Secrétaire Générale, Nada NADIRE (ex Secrétaire Générale) passe Trésorière et Guillaume GOMEZ (ex Trésorier) et Esteban Vincent (ex Vice-Trésorier) quitte le Bureau. Le Président explique qu’il s’agit d’une rotation de postes nécessaire.
+Les changements de postes sont expliqués : Théo LASNIER (sans rôle dans le précédent Bureau) passe Vice-Secrétaire, Mélisande GRÉGOIRE–BÉGRANGER (ex Vice-Secrétaire) passe Secrétaire Générale, Nada NADIRE (ex Secrétaire Générale) passe Trésorière et Guillaume GOMEZ (ex Trésorier) et Esteban Vincent (ex Vice-Trésorier) quittent le Bureau. Le Président explique qu’il s’agit d’une rotation de postes nécessaire.
 Ivan STEPANIAN reste Président de l’Association, jusqu’à ce qu’un successeur soit décidé et qu’une Assemblée Générale Extraordinaire ait lieu pour ratifier ce changement au départ d’Ivan, prévu en septembre.
 Guillaume GOMEZ s’excuse de ne pas avoir pu grandement contribuer à la Trésorerie depuis la création de l’Association. Il lègue son rôle à Nada NADIRE et souhaite bonne chance au nouveau Bureau.
 
@@ -86,16 +86,14 @@ L’organisation (qui devait dans tous les cas être expliquée plus tard) est e
 
 Les Vice-Présidents étaient avant des Membres du Bureau qui travaillaient sur des tâches en autonomie sans nécessiter de pôle (ex. organiser des cohésions) ; ce poste ne correspond plus à celui de Vice-Président et est désormais qualifié de “Responsable Chargé”.
 
-Les Vice-Présidents sont désormais des postes de gestion à haute responsabilité : l’Association a deux Vice-Présidents, un gérant les Responsables Chargés et l’autre gérant les Responsables de Pôle.
+Les Vice-Présidents ont désormais des postes de gestion à haute responsabilité : l’Association a deux Vice-Présidents, un gérant les Responsables Chargés et l’autre gérant les Responsables de Pôle.
 
-Vincent LABOURET remarque que comme Ivan STEPANIAN devra bientôt quitter l’Association, il serait pertinent qu’il prenne le rôle de Vice-Président et qu’un nouveau Président soit élu ; le Président rappelle qu’il n’y a pour l’instant pas eu de candidat volontaire pour le rôle, mais qu’il y’a potentiellement deux personnes qui seraient intéressées. Un des deux sera sélectionné pour le poste de Président et formé à ce poste avant la prochaine Assemblée Générale.
+Vincent LABOURET remarque que comme Ivan STEPANIAN devra bientôt quitter l’Association, il serait pertinent qu’il prenne le rôle de Vice-Président et qu’un nouveau Président soit élu ; le Président rappelle qu’il n’y a pour l’instant pas eu de candidat volontaire pour le rôle, mais qu’il y a potentiellement deux personnes qui seraient intéressées. Une des deux sera sélectionnée pour le poste de Président et formée à ce poste avant la prochaine Assemblée Générale.
 
 #### Résultats du vote : 27 POUR, 2 CONTRE, 2 BLANC, 7 ABSTENTIONS (et par procuration : 8 POUR, 1 CONTRE).
 ### TOTAL : **35 POUR, 3 CONTRE, 2 BLANC, 7 ABSTENTIONS**. La mesure est adoptée par vote majoritaire.
 
-La mesure est adoptée par vote majoritaire.
-
-Le Président présente les nouveaux Statuts de l’Association à travers ses 4 modifications-clé : le changement de son siège social, la nouvelle organisation de son Bureau, les nouveaux types de Membres de l’Association et la définition des Assemblées Générales pour l’Association.
+Le Président présente les nouveaux Statuts de l’Association à travers ses 4 modifications clé : le changement de son siège social, la nouvelle organisation de son Bureau, les nouveaux types de Membres de l’Association et la définition des Assemblées Générales pour l’Association.
 
 ### **3ème délibération** : Les membres sont appelés à voter pour ou contre la proposition des nouveaux Statuts.
 
@@ -103,7 +101,7 @@ Vincent LABOURET demande s’il existe une mesure permettant aux membres d’inv
 
 Vincent LABOURET commente sur le fait que les implications du rôle de Membre Fondateur ne sont pas clairement définies ; le Président explique que ce rôle est désormais purement symbolique et consultatif, et que les pouvoirs particuliers que pouvaient avoir les Membres Fondateurs ont été retirés de la dernière version des Statuts.
 
-Yoke N’GASSA demande de clarifier ce que sont exactement les Statuts d’une Association et leur différence avec le Règlement Intérieur. Le Président explique qu’il s’agit d’un document de loi interne à l’Association qui vient combler les blancs de la loi 1901 relative aux associations et qui permet de définir des lois particulières qui devront être appliquées durant la vie de l’Association.
+Yoke N’GASSA demande de clarifier ce que sont exactement les Statuts d’une Association et leur différence avec le Règlement Intérieur. Le Président explique que les Statuts sont un document de loi interne à l’Association qui vient combler les blancs de la loi 1901 relative aux associations et qui permet de définir des lois particulières qui devront être appliquées durant la vie de l’Association.
 
 Le document a vertu à être immuable au possible, et doit être transmis au greffe des associations de la préfecture du siège social de l’Association à chaque modification ratifiée en Assemblée Générale avec un procès-verbal.
 
@@ -120,7 +118,7 @@ Le Président présente ensuite brièvement le nouveau Règlement Intérieur en 
 
 Vincent LABOURET affirme :
 - que les signatures présentes sur les Statuts doivent obligatoirement être les mêmes que celles présentes sur les passeports des Membres signataires, selon la loi ;
-- qu’il est nécessaire que l’Association mette à disposition les Statuts correspondants exactement à ceux déposés en préfecture (sans informations caviardés), selon la loi ; le Président précise que les informations sont caviardées à la demande des Membres concernés, qui ne souhaitent pas que des informations personnelles soient disponibles publiquement ;
+- qu’il est nécessaire que l’Association mette à disposition les Statuts correspondant exactement à ceux déposés en préfecture (sans information caviardée), selon la loi ; le Président précise que les informations sont caviardées à la demande des Membres concernés, qui ne souhaitent pas que des informations personnelles soient disponibles publiquement ;
 - qu’il est nécessaire que l’Article concernant les Clubs soit présent dans les Statuts.
 
 Le Président met en doute ces affirmations et demande à Vincent LABOURET de lui transmettre ses sources légales. Celui-ci n’est pas en capacité de le faire, ces affirmations seront vérifiées lors d’une expertise légale avec les juristes d’EFREI PARIS.
@@ -134,7 +132,7 @@ David GORGETTE et Vincent LABOURET soulignent qu’il faut qu’un seul compte s
 #### Résultats du vote : 26 POUR, 1 CONTRE, 4 BLANC, 7 ABSTENTIONS (et par procuration : 8 POUR, 1 BLANC)
 ### TOTAL : **34 POUR, 1 CONTRE, 5 BLANC, 7 ABSTENTIONS**. La mesure est adoptée par vote majoritaire.
 
-Les Membres n'ayant pas davantage de questions, le Président conclut en sensibilisant de nouveau les Membres Adhérents quant à l'importance de leur implication, la reconnaissance qu'il a envers eux et leur devoir d'être un contre-pouvoir s'ils observent une quelconque forme d'abus ou d'avillissement dans la gestion de l'Association. Le Président propose aux autres Membres du Bureau de dire quelques mots. David parle davantage des récompenses qu'il offrira aux eProfs durant le courant du nouveau mandat.
+Les Membres n'ayant pas davantage de questions, le Président conclut en sensibilisant de nouveau les Membres Adhérents quant à l'importance de leur implication, la reconnaissance qu'il a envers eux et leur devoir d'être un contre-pouvoir s'ils observent une quelconque forme d'abus ou d'avillissement dans la gestion de l'Association. Le Président propose aux autres Membres du Bureau de dire quelques mots. David GORGETTE parle davantage des récompenses qu'il offrira aux eProfs durant le courant du nouveau mandat.
 
 Les Membres du Bureau s'étant exprimés, le Président clot la séance.
 
