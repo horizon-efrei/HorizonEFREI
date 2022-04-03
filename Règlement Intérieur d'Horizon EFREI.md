@@ -62,7 +62,7 @@ Les Procès-Verbaux et Lettre Officielles ne peuvent être modifiés que pour de
 
 #### 2.3. Modification des Bilans Moraux et Comptables
 
-La version du Bilan Moral et Comptable qui fut présentée en Assemblée Générale doit être accessible telle quelle et ne peut pas être modifiée. Les Bilans Moraux et Comptables archivés ont vertu à être un témoignage immuable et véritable de ce qui a été présenté en Assemblée Générale.
+La version du Bilan Moral et Comptable qui a été présentée en Assemblée Générale doit être accessible telle quelle et ne peut pas être modifiée. Les Bilans Moraux et Comptables archivés ont vertu à être un témoignage immuable et véritable de ce qui a été présenté en Assemblée Générale.
 
 Une seconde version du Bilan Moral et Comptable, corrigée et complétée (si applicable), peut être ajoutée au dépôt dans le même dossier que le Bilan Moral et Comptable présenté en Assembléee Générale. Il doit être facile de distinguer quel fichier correspond à quelle version et quelles sont les différences entre les deux.
 
@@ -78,7 +78,7 @@ Sur ce dépôt public, les adresses, signatures et autres informations personnel
 
 L'actuel Dépôt Public des Documents Officiels de l'Association utilise le versionnage Git sur la plateforme GitHub, cf. [**ARTICLE VII - Plateformes de l'Association**](#article-vii---plateformes-de-lassociation). Sur ce dépôt GitHub, la branche "master" doit refléter les documents courants de l'Association. Une modification proposée d'un Document Officiel de l'Association prend la forme d'une nouvelle branche "modification-(document)-(date)" (ou similaire nomenclature) qui résultera en une "pull request". À la ratification des modifications, la "pull request" est fusionnée avec la branche "master" du dépôt.
 
-Les errata et corrections d'orthographe n'ont pas besoin de faire l'objet d'une pull request, elles peuvent être directement "commit" sur la branche "master" du dépôt.
+Les corrections orthographiques n'ont pas besoin de faire l'objet d'une pull request, elles peuvent être directement "commit" sur la branche "master" du dépôt.
 
 Les ajouts de Documents Officiels ratifiés (Procès-Verbaux, Bilan Moraux et Comptables) sont directement "commit" sur la branche "master" du dépôt.
 
@@ -95,7 +95,7 @@ Un document de gestion de comptabilité doit être tenu à jour par le Trésorie
 - les membres présents à chaque événement pour un ensemble de dépenses données ;
 - les factures liées à chaque dépense archivée.
 
-Les Membres doivent être remboursés d'ici un an après leur dépense pour l'Association. Les justificatifs de virement récupérés sur l'espace de la Banque de l'Association doivent être archivés avec les dépenses pour prouver que les Membres ont bien été remboursés.
+Les Membres doivent être remboursés d'ici un an après leur dépense pour l'Association. Les justificatifs de virements récupérés sur l'espace de la Banque de l'Association doivent être archivés avec les dépenses pour prouver que les Membres ont bien été remboursés.
 
 Après chaque Passation, une lettre de passation des pouvoirs bancaires du précédent Bureau Restreint au nouveau doit être rédigée et archivée sous deux semaines dans le Dépôt Public des Documents Officiels de l'Association.
 
@@ -138,7 +138,7 @@ via :
 
 #### 6.1. Mentorat Horizon
 
-Le Mentorat Horizon met en relation des étudiants mentorés (qualifiés de "juniors") et des étudiants d'années plus avancés qui les soutiennent et mentorent (qualifiés de "mentors"). Cette mise en relation se fait via la plateforme de discussion "Horizon : Mentorat 🌱" et a pour événement clé une permanence hebdomadaire qui a lieu sur le campus d'EFREI PARIS.
+Le Mentorat Horizon met en relation des étudiants mentorés (qualifiés de "juniors") et des étudiants d'années plus avancées qui les soutiennent et mentorent (qualifiés de "mentors"). Cette mise en relation se fait via la plateforme de discussion "Horizon : Mentorat 🌱" et a pour événement clé une permanence hebdomadaire qui a lieu sur le campus d'EFREI PARIS.
 
 À chaque séance, la présence doit être prise en compte par le responsable du Mentorat de la semaine.
 
@@ -155,7 +155,7 @@ Si la permanence ne peut pas avoir lieu une semaine donnée, les Membres Adhére
 L'Association administre 5 serveurs Discord sur lesquels Horizon EFREI gère son organisation et réalise ses activités en ligne :
 
 
--   "Horizon : Ef'Réussite ⭐" ([https://discord.gg/7WKfyhghyn](https://discord.gg/7WKfyhghyn)) - Plateforme de partage de ressources pédagogiques, de séances de révisions et d'entraide étudiante administrée, animée par le Pôle Ef'Réussite de l'Association.
+-   "Horizon : Ef'Réussite ⭐" ([https://discord.gg/7WKfyhghyn](https://discord.gg/7WKfyhghyn)) - Plateforme de partage de ressources pédagogiques, de séances de révisions et d'entraide étudiante, administrée et animée par le Pôle Ef'Réussite de l'Association.
 -   "Horizon : Web 🌐" ([https://discord.gg/yRHTW7DQ5R](https://discord.gg/yRHTW7DQ5R)) - Plateforme de projets web open-source, de partage de ressources en rapport avec le web et de soutien de projets web étudiants utilisant des technologies JavaScript, animée par le Pôle Développement de l'Association.
 -   "Horizon : Bot 🤖" ([https://discord.gg/zjCDgU6wTN](https://discord.gg/zjCDgU6wTN)) - Plateforme de projets de développement de bots Discord pour les serveurs d'Horizon, avec une utilité pouvant s'étendre aux serveurs d'étudiants en général, animée par le Pôle Développement de l'Association.
 -   "Horizon : Mentorat 🌱" ([https://discord.gg/G7fWxQZXqF](https://discord.gg/G7fWxQZXqF)) - Plateforme du Mentorat Horizon, animée par le Pôle Mentorat de l'Association.
@@ -179,7 +179,7 @@ L'Association a trois regroupements de dépôts sur Google Workspace (gestion in
 
 #### 7.4. Site Web Horizon
 
-L'Association développe et maintient le site internet [horizon-efrei.fr/](horizon-efrei.fr/), plateforme étudiante des étudiants d'EFREI PARIS, co-administrée par Horizon EFREI et EFREI PARIS.
+L'Association développe et maintient le site internet [horizon-efrei.fr/](horizon-efrei.fr/), plateforme étudiante des étudiants d'EFREI PARIS co-administrée par Horizon EFREI et EFREI PARIS.
 
 *Cette section devra être mise à jour lors du lancement officiel [horizon-efrei.fr/](horizon-efrei.fr/), décrivant les responsabilités d'Horizon EFREI et EFREI PARIS concernant l'administration de la plateforme, ainsi que les autres ramifications légales relatives à l'activité de la plateforme.*
 
