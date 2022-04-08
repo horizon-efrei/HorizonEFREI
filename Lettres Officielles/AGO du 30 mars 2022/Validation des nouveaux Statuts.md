@@ -19,4 +19,4 @@ Enfin, que tous s'ouvrent à une vision optimiste, ambitieuse et décente de leu
 Solidairement,
 
 Ivan STEPANIAN, Président Fondateur d'Horizon EFREI\
-<img alt="Ivan STEPANIAN" src="../../Signatures/AGO%20du%2030%20mars%202022/Signature_Ivan.png" width="250" />
+<img alt="Ivan STEPANIAN" src="Signatures/Validation%20des%20Statuts/Ivan%20STEPANIAN.png" height="70" />
