@@ -221,15 +221,15 @@ Les présents Statuts s'appliquent à tous les membres ; tout manquement aux pr�
 
 Le présent Règlement Intérieur comporte 10 articles et est établi sur 9 pages.
 
-(Chaque signataire fera précéder sa signature manuscrite de la mention manuscrite « Lu et approuvé le [date de ratification] »)
+(Chaque signataire fera précéder sa signature manuscrite de la mention manuscrite « Lu et approuvé »)
 
 Signatures des Membres du Bureau Restreint :
 
 Ivan STEPANIAN, Président\
-<img alt="Ivan STEPANIAN" src="Signatures/AGO%20du%2030%20mars%202022/Signature_Ivan.png" width="250" />
+<img alt="Ivan STEPANIAN" src="Signatures/Règlement%20Intérieur/Ivan%20STEPANIAN.png" height="70" />
 
 Nada NADIRE, Trésorière\
-<img alt="Nada NADIRE" src="Signatures/AGO%20du%2030%20mars%202022/Signature_Nada.png" width="250" />
+<img alt="Nada NADIRE" src="Signatures/Règlement%20Intérieur/Nada%20NADIRE.png" height="70" />
 
 Mélisande GRÉGOIRE--BEGRANGER, Secrétaire Générale\
-<img alt="Mélisande GRÉGOIRE--BEGRANGER" src="Signatures/AGO%20du%2030%20mars%202022/Signature_Mélisande.png" width="250" />
+<img alt="Mélisande GRÉGOIRE--BEGRANGER" src="Signatures/Règlement%20Intérieur/Mélisande%20GRÉGOIRE--BEGRANGER.png" height="70" />

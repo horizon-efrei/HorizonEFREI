@@ -143,10 +143,10 @@ Fait le 30/03/2022, corrigé le 01/04/2022.
 Signatures des nouveaux Membres du Bureau Restreint :
 
 Ivan STEPANIAN, Président\
-<img alt="Ivan STEPANIAN" src="../../Signatures/AGO%20du%2030%20mars%202022/Signature_Ivan.png" width="250" />
+<img alt="Ivan STEPANIAN" src="Signatures/Ivan%20STEPANIAN.png" height="70" />
 
 Nada NADIRE, Trésorière\
-<img alt="Nada NADIRE" src="../../Signatures/AGO%20du%2030%20mars%202022/Signature_Nada.png" width="250" />
+<img alt="Nada NADIRE" src="Signatures/Nada%20NADIRE.png" height="70" />
 
 Mélisande GRÉGOIRE--BEGRANGER, Secrétaire Générale\
-<img alt="Mélisande GRÉGOIRE--BEGRANGER" src="../../Signatures/AGO%20du%2030%20mars%202022/Signature_Mélisande.png" width="250" />
+<img alt="Mélisande GRÉGOIRE--BEGRANGER" src="Signatures/Mélisande%20GRÉGOIRE--BEGRANGER.png" height="70" />

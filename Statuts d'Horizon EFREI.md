@@ -509,15 +509,15 @@ Les présents Statuts s'appliquent à tous les membres ; tout manquement aux pr�
 
 Les présents Statuts comportent 12 articles et sont établis sur 19 pages.
 
-(Chaque signataire fera précéder sa signature manuscrite de la mention manuscrite « Lu et approuvé le [date de ratification] »)
+(Chaque signataire fera précéder sa signature manuscrite de la mention manuscrite « Lu et approuvé »)
 
 Signatures des Membres du Bureau Restreint :
 
 Ivan STEPANIAN, Président\
-<img alt="Ivan STEPANIAN" src="Signatures/AGO%20du%2030%20mars%202022/Signature_Ivan.png" width="250" />
+<img alt="Ivan STEPANIAN" src="Signatures/Statuts/Ivan%20STEPANIAN.png" height="70" />
 
 Nada NADIRE, Trésorière\
-<img alt="Nada NADIRE" src="Signatures/AGO%20du%2030%20mars%202022/Signature_Nada.png" width="250" />
+<img alt="Nada NADIRE" src="Signatures/Statuts/Nada%20NADIRE.png" height="70" />
 
 Mélisande GRÉGOIRE--BEGRANGER, Secrétaire Générale\
-<img alt="Mélisande GRÉGOIRE--BEGRANGER" src="Signatures/AGO%20du%2030%20mars%202022/Signature_Mélisande.png" width="250" />
+<img alt="Mélisande GRÉGOIRE--BEGRANGER" src="Signatures/Statuts/Mélisande%20GRÉGOIRE--BEGRANGER.png" height="70" />
