@@ -19,7 +19,6 @@ Règlement Intérieur d'Horizon EFREI<br>du 30 mars 2022
     - [7.1. Plateformes d'activité et de gestion de l'Association](#71-plateformes-dactivité-et-de-gestion-de-lassociation)
     - [7.2. Comptes sur les réseaux sociaux](#72-comptes-sur-les-réseaux-sociaux)
     - [7.3. Dépôts et espaces de partage de ressources](#73-dépôts-et-espaces-de-partage-de-ressources)
-    - [7.4. Site Web Horizon](#74-site-web-horizon)
   - [**ARTICLE VIII - Pôles de l'Association**](#article-viii---pôles-de-lassociation)
     - [8.1. Modification des Pôles de l'Association](#81-modification-des-pôles-de-lassociation)
 - [**AUTRES**](#autres)
@@ -176,12 +175,6 @@ L'Association a trois regroupements de dépôts sur Google Workspace (gestion in
 -   Google Workspace ([https://drive.google.com/drive/folders/0AAY_B8FzW2CAUk9PVA](https://drive.google.com/drive/folders/0AAY_B8FzW2CAUk9PVA)) - Dépôt de l'Équipe de l'Association, qui contient l'ensemble des ressources internes de l'Équipe d'Horizon EFREI, excepté les documents officiels envoyés au greffe des associations du département du siège social de l'Association, qui doivent être versionnés sur le dépôt GitHub "HorizonEFREI" de Horizon EFREI. La plupart des dossiers sont publics, par transparence.
 -   GitHub ([https://github.com/horizon-efrei](https://github.com/horizon-efrei)) - Groupes des dépôts GitHub officiels de l'Association, où Horizon EFREI publie ses projets et ses documents officiels. Le dépôt "HorizonEFREI" ([https://github.com/horizon-efrei/HorizonEFREI](https://github.com/horizon-efrei/HorizonEFREI)) est l'actuel Dépôt Public des Documents Officiels de l'Association.
 -   Sharepoint ([https://horizonefrei.sharepoint.com/sites/recording/]) - Site Sharepoint de l'Association, où Horizon EFREI publie les enregistrements des cours et séances de révision donnés sur Ef'Réussite.
-
-#### 7.4. Site Web Horizon
-
-L'Association développe et maintient le site internet [horizon-efrei.fr/](horizon-efrei.fr/), plateforme étudiante des étudiants d'EFREI PARIS co-administrée par Horizon EFREI et EFREI PARIS.
-
-*Cette section devra être mise à jour lors du lancement officiel [horizon-efrei.fr/](horizon-efrei.fr/), décrivant les responsabilités d'Horizon EFREI et EFREI PARIS concernant l'administration de la plateforme, ainsi que les autres ramifications légales relatives à l'activité de la plateforme.*
 
 ### **ARTICLE VIII - Pôles de l'Association**
 

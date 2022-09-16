@@ -207,6 +207,7 @@ Le Secrétaire doit avoir une orthographe et une grammaire irréprochables ainsi
 Avec la gestion informatisée actuelle des documents de l'Association, le Secrétaire est généralement épaulé d'un Secrétaire Adjoint (ou Vice-Secrétaire) avec un profil technique, qui assiste le Secrétaire dans cette gestion informatisée (amélioration du versionnage des documents, de la documentation expliquant le fonctionnement de la modification collaborative, gestion du dépôt public des documents administratifs...) de l'administration de l'Association.
 
 Le Trésorier épaule le Président dans l'organisation de la Trésorerie et la gestion financière de l'Association. Le Trésorier :
+
 - s'assure de la concordance des comptes, de la caisse et des inventaires de l'Association à chaque début de mandat,
 - compose la demande de subventions initiale en début d'année,
 - rédige les demandes régulières de déblocage de subvention,
@@ -286,7 +287,6 @@ Une preuve d'activité inclut :
 -   la présence en tant qu'animateur à un événement organisé ou soutenu par l'Association, au nom d'Horizon EFREI ;
 -   la création de contenu (communication, montage vidéo, contribution de code) ;
 -   l'organisation d'un événement (cours, mentorat, conférence, événement de cohésion, événement de communication) ;
-
 -   une réponse de la part du Membre après une prise de contact de la part d'un Membre du Bureau, prouvant la motivation du Membre, justifiant son manque d'activité sur la période et proposant une solution (exemples : être actif seulement pour certains événements, être actif plus tard, devenir Membre Ancien, quitter l'Association) au Membre du Bureau.
 
 Une preuve d'activité expire au bout de trois semaines.
@@ -329,11 +329,13 @@ Un Membre Participant peut candidater pour rejoindre l'Association par le proces
 
 Les Membres Anciens s'engagent à se montrer disponibles, courtois et compréhensifs avec les Membres Adhérents de futurs mandats lorsque ceux-ci ont des questions ou des demandes simples et clairement formulées.
 
-Le rôle de Membre Ancien est proposé à tout Membre Adhérent étudiant qui doit démissioner après avoir fini ses études (diplômé, réorienté ou en césure). Ce rôle peut être refusé.
+Le rôle de Membre Ancien est proposé à tout Membre Adhérent qui doit démissioner après avoir fini ses études (diplômé, réorienté ou en césure). Ce rôle peut être refusé.
 
-Un Membre qui a démissionné "en bons termes" (cf. [8.9. Radiation d'un Membre](#89-radiation-dun-membre)) peut choisir de prendre le rôle de Membre Ancien. Un Membre radié par décision des Membres du Bureau ne peut pas prétendre au rôle de Membre Ancien.
+Un Membre Adhérent qui a démissionné "en bons termes" (cf. [8.9. Radiation d'un Membre](#89-radiation-dun-membre)) peut choisir de prendre le rôle de Membre Ancien. Un Membre Adhérent radié par décision des Membres du Bureau ne peut pas prétendre au rôle de Membre Ancien.
 
 Les Membres Anciens n'ont pas de droit de vote en Assemblée Générale, mais pourront être invités à donner leur avis sur chaque délibération.
+
+Les Membres Participants et les Membres Temporaires ne sont pas éligibles au rôle de Membre Ancien.
 
 #### 8.8. Admission et renouvellement d'adhésion
 
@@ -345,7 +347,7 @@ Les nouveaux Membres de Pôle gardent leur rôle pour une durée indéterminée.
 
 #### 8.9. Radiation d'un Membre
 
-La qualité de Membre Adhérent, Ancien ou Temporaire se perd par :
+La qualité de Membre Adhérent, Ancien, Participant ou Temporaire se perd par :
 
 -   démission adressée par écrit au Président de l'Association ou aux Responsables des Pôles dont fait partie le Membre ;
 -   exclusion prononcée par une majorité des Membres du Bureau en Assemblée du Bureau, qui statue souverainement, pour comportement ou agissement portant préjudice matériel ou moral à l'Association, ou tout autre raison prononcée par le Bureau dans l'intérêt de l'Association.
@@ -373,9 +375,9 @@ La présence de tous les Membres du Bureau, exceptés les Responsables Chargés,
 
 #### 9.3. Assemblée Générale
 
-En dehors de l'Assemblée Générale Constitutive, qui fut unique, il existe deux types d'Assemblées Générales (AG) : l'Assemblée Générale Ordinaire et l'Assemblée Générale Extraordinaire.
+En dehors de l'Assemblée Générale Constitutive, qui fut unique, il existe deux types d'Assemblées Générales (AG) : l'Assemblée Générale Ordinaire (AGO) et l'Assemblée Générale Extraordinaire (AGE).
 
-La présence de tous les Membres Adhérents et Temporaires de l'Association est obligatoire aux Assemblées Générales. Les Membres Anciens sont invités à les rejoindre, mais leur présence n'est pas obligatoire. Les Membres Participants peuvent faire la demande de participer aux Assemblées Générales mais ne sont sinon pas invités par défaut.
+La présence de tous les Membres Adhérents et Temporaires de l'Association est obligatoire aux Assemblées Générales. Les Membres Anciens sont invités à les rejoindre, mais leur présence n'est pas obligatoire. Les Membres Participants peuvent faire la demande de participer aux Assemblées Générales mais ne sont par défaut pas invités.
 
 Seuls les Membres Adhérents ont le droit de vote durant les Assemblées Générales, mais tous les Membres présents ont le droit à la parole (dans les limites de la bienséance).
 
@@ -428,7 +430,7 @@ Le nouveau Bureau élu (pouvant être inchangé de l'ancien) prend ses fonctions
 
 #### 9.5. Assemblée Générale Extraordinaire
 
-L'Assemblée Générale Extraordinaire (AGE) est compétente pour modifier les Statuts, décider de la destitution du Bureau, décider de la dissolution de l'association de l'Association ou de sa fusion avec une autre et est compétente pour gérer des situations urgentes nécessitant une validation par une majorité des Membres Adhérents.
+L'Assemblée Générale Extraordinaire (AGE) est compétente pour modifier les Statuts, décider de la destitution du Bureau, décider de la dissolution de l'Association ou de sa fusion avec une autre et est compétente pour gérer des situations urgentes nécessitant une validation par une majorité des Membres Adhérents.
 
 Dans le cas d'une Assemblée Générale Extraordinaire dite "urgente", qui est dans l'impossibilité d'être annoncée plus tôt, l'annonce peut se faire la veille (mais doit justifier de son urgence) ; en cas d'Assemblée Générale Extraordinaire urgente, les Membres Adhérents qui ne peuvent pas être présents n'ont pas nécessairement besoin de voter par procuration (à cause de la courte date limite pour la transmettre).
 
