@@ -23,11 +23,10 @@ Statuts d'Horizon EFREI<br>du 30 mars 2022
     - [8.2. Preuve d'activité](#82-preuve-dactivité)
     - [8.3 Membres du Bureau](#83-membres-du-bureau)
     - [8.4. Membres de Pôle](#84-membres-de-pôle)
-    - [8.5. Membres Temporaires](#85-membres-temporaires)
-    - [8.6. Membres Participants](#86-membres-participants)
-    - [8.7. Membres Anciens](#87-membres-anciens)
-    - [8.8. Admission et renouvellement d'adhésion](#88-admission-et-renouvellement-dadhésion)
-    - [8.9. Radiation d'un Membre](#89-radiation-dun-membre)
+    - [8.5. Membres Participants](#85-membres-participants)
+    - [8.6. Membres Anciens](#86-membres-anciens)
+    - [8.7. Admission et renouvellement d'adhésion](#87-admission-et-renouvellement-dadhésion)
+    - [8.8. Radiation d'un Membre](#88-radiation-dun-membre)
   - [**ARTICLE IX - Réunions et Assemblées**](#article-ix---réunions-et-assemblées)
     - [9.1. Réunion de Pôle](#91-réunion-de-pôle)
     - [9.2. Assemblée du Bureau](#92-assemblée-du-bureau)
@@ -265,9 +264,7 @@ Les Membres de l'Association sont composés des :
 
   -   Membres du Bureau : les Membres Adhérents qui font également partie du Bureau Restreint ou du Étendu de l'Association ;
 
-  -   Membres de Pôle : des individus ayant rejoint l'Association par intérêt pour son objet, ayant participé à plus d'une réunion depuis leur arrivée et réalisant leurs devoirs de Membres ;
-
--   Membres Temporaires : un nouveau Membre de Pôle (avant qu'il n'ait participé à ses deux premières réunions) ou un Membre Adhérent qui n'a pas fait preuve d'activité (cf. [8.2. Preuve d'activité](#82-preuve-dactivité)) depuis trois semaines ;
+  -   Membres de Pôle : des individus ayant rejoint l'Association par intérêt pour son objet et réalisant leurs devoirs de Membres ;
 
 -   Membres Participants : les individus participant aux événements de l'Association, contribuant directement ou indirectement aux projets de l'Association sans pour autant être Membres Adhérents.
 
@@ -305,19 +302,9 @@ Le devoir d'un Membre de Pôle est d'être présent aux Réunions de Pôle du ou
 
 Les Membres de Pôle ont le droit de vote en Assemblée Générale.
 
-#### 8.5. Membres Temporaires
+#### 8.5. Membres Participants
 
-Si un nouveau Membre adhère en tant que Membre du Bureau, il prend instantanément son rôle de Membre Adhérent s'il a fait preuve d'activité et de bonne foi dans la période ayant menée à son adhésion. Sinon, le nouvel adhérent est Membre Temporaire avant d'avoir participé à ses deux premières réunions ; il devient ensuite Membre de Pôle suite à sa deuxième réunion. Un Membre de Pôle reprend le rôle de Membre Temporaire s'il échoue dans l'accomplissement de ces devoirs, ne fournissant pas de preuve d'activité pendant 1 mois.
-
-Les Membres Temporaires n'ont pas le droit de vote en Assemblée Générale.
-
-Tout Membre du Bureau peut permettre à un nouvel admis de devenir immédiatement Membre de Pôle sans qu'il n'ait participé à ses deux premières réunions, si celui-ci a fait preuve d'activité et de bonne foi depuis son adhésion (cela peut permettre à un Membre Temporaire de voter en Assemblée Générale).
-
-Le devoir d'un Membre Temporaire est de faire preuve d'activité dans les 7 jours suivant son obtention du rôle ; sinon, son inactivité prolongée peut être utilisée comme motif pour sa radiation de l'Association en Assemblée du Bureau.
-
-#### 8.6. Membres Participants
-
-Un Membre Participant est un un Membre de l'Association qui participe aux activités organisées par l'Association, sans être Membre Adhérent ou Membre Temporaire.
+Un Membre Participant est un un Membre de l'Association qui participe aux activités organisées par l'Association, sans être Membre Adhérent ou Membre Ancien.
 
 Les Membres Participants n'ont aucune obligation au sein de l'Association, et n'ont pas accès aux canaux de discussions et de partages d'informations accessibles au Membres Adhérents. Ils peuvent participer aux Assemblées Générales de l'Association, faire des retours sur les projets de l'Association et profiter des événements et des récompenses proposées par l'Association.
 
@@ -325,29 +312,29 @@ Les Membres Participants n'ont pas le droit de vote en Assemblée Générale.
 
 Un Membre Participant peut candidater pour rejoindre l'Association par le processus d'admission normal, et sera priorisé par rapport aux postulants qui n'ont jamais participé aux projets de l'Association.
 
-#### 8.7. Membres Anciens
+#### 8.6. Membres Anciens
 
 Les Membres Anciens s'engagent à se montrer disponibles, courtois et compréhensifs avec les Membres Adhérents de futurs mandats lorsque ceux-ci ont des questions ou des demandes simples et clairement formulées.
 
 Le rôle de Membre Ancien est proposé à tout Membre Adhérent qui doit démissioner après avoir fini ses études (diplômé, réorienté ou en césure). Ce rôle peut être refusé.
 
-Un Membre Adhérent qui a démissionné "en bons termes" (cf. [8.9. Radiation d'un Membre](#89-radiation-dun-membre)) peut choisir de prendre le rôle de Membre Ancien. Un Membre Adhérent radié par décision des Membres du Bureau ne peut pas prétendre au rôle de Membre Ancien.
+Un Membre Adhérent qui a démissionné "en bons termes" (cf. [8.8. Radiation d'un Membre](#89-radiation-dun-membre)) peut choisir de prendre le rôle de Membre Ancien. Un Membre Adhérent radié par décision des Membres du Bureau ne peut pas prétendre au rôle de Membre Ancien.
 
 Les Membres Anciens n'ont pas de droit de vote en Assemblée Générale, mais pourront être invités à donner leur avis sur chaque délibération.
 
-Les Membres Participants et les Membres Temporaires ne sont pas éligibles au rôle de Membre Ancien.
+Les Membres Participants ne sont pas éligibles au rôle de Membre Ancien.
 
-#### 8.8. Admission et renouvellement d'adhésion
+#### 8.7. Admission et renouvellement d'adhésion
 
 L'adhésion à l'Association est soumise à l'adhésion aux présents Statuts, qui doivent être lus et acceptés par tout nouvel adhérent. Pour devenir Membre Adhérent, il faut d'abord soumettre un bulletin d'adhésion ou rentrer en contact avec un Membre du Bureau, puis être agréé par un Membre du Bureau Restreint ou par le Responsable du Pôle qui intéresse le nouveau Membre. Un refus d'adhésion par le Membre du Bureau Restreint ou le Responsable de Pôle doit être justifié.
 
-Un nouveau Membre admis prend le rôle de Membre Temporaire jusqu'à ce qu'il participe à ses deux premières réunions ; il devient ensuite Membre Adhérent.
+Un nouveau Membre admis prend automatiquement le rôle de Membre Adhérent.
 
 Les nouveaux Membres de Pôle gardent leur rôle pour une durée indéterminée. Les nouveaux Membres du Bureau gardent leur rôle jusqu'à la prochaine Assemblée Générale Ordinaire. L'adhésion des Membres Adhérents est automatiquement renouvelée chaque mandat, mais les rôles des Membres du Bureau ne sont pas renouvelés automatiquement (il faut que les Membres se présentent de nouveau pour leur poste).
 
-#### 8.9. Radiation d'un Membre
+#### 8.8. Radiation d'un Membre
 
-La qualité de Membre Adhérent, Ancien, Participant ou Temporaire se perd par :
+La qualité de Membre Adhérent, Ancien ou Participant se perd par :
 
 -   démission adressée par écrit au Président de l'Association ou aux Responsables des Pôles dont fait partie le Membre ;
 -   exclusion prononcée par une majorité des Membres du Bureau en Assemblée du Bureau, qui statue souverainement, pour comportement ou agissement portant préjudice matériel ou moral à l'Association, ou tout autre raison prononcée par le Bureau dans l'intérêt de l'Association.
@@ -377,7 +364,7 @@ La présence de tous les Membres du Bureau, exceptés les Responsables Chargés,
 
 En dehors de l'Assemblée Générale Constitutive, qui fut unique, il existe deux types d'Assemblées Générales (AG) : l'Assemblée Générale Ordinaire (AGO) et l'Assemblée Générale Extraordinaire (AGE).
 
-La présence de tous les Membres Adhérents et Temporaires de l'Association est obligatoire aux Assemblées Générales. Les Membres Anciens sont invités à les rejoindre, mais leur présence n'est pas obligatoire. Les Membres Participants peuvent faire la demande de participer aux Assemblées Générales mais ne sont par défaut pas invités.
+La présence de tous les Membres Adhérents de l'Association est obligatoire aux Assemblées Générales. Les Membres Anciens sont invités à les rejoindre, mais leur présence n'est pas obligatoire. Les Membres Participants peuvent faire la demande de participer aux Assemblées Générales mais ne sont par défaut pas invités.
 
 Seuls les Membres Adhérents ont le droit de vote durant les Assemblées Générales, mais tous les Membres présents ont le droit à la parole (dans les limites de la bienséance).
 
@@ -451,7 +438,7 @@ Les votes en Assemblées du Bureau n'inclus pas le vote blanc.
 
 Les abstentions sont considérées à part des votes blancs et n'affectent pas les votes. Un Membre Adhérent présent en ligne à une Assemblée qui s'est abstenu pour chaque disposition et ne s'est pas exprimé est par défaut considéré comme absent à l'Assemblée.
 
-Des abstentions répétées peuvent être un motif pour qu'un Membre Adhérent devienne Membre Temporaire. Le vote blanc permet aux Membres sans opinion ou ne souhaitant pas prendre position de s'exprimer ; l'abstention est considéré comme un manquement à son devoir.
+Des abstentions répétées peuvent être un motif pour qu'un Membre Adhérent soit considéré comme inactif. Le vote blanc permet aux Membres sans opinion ou ne souhaitant pas prendre position de s'exprimer ; l'abstention est considéré comme un manquement à son devoir.
 
 Une majorité de votes blancs invalide un vote. En cas de vote invalidé, un débat a lieu et un nouveau vote prend place durant une même séance. Si le vote est toujours invalidé par un vote blanc, le sujet est considéré comme non-traité et pourra être présenté de nouveau au cours d'une nouvelle séance.
 
