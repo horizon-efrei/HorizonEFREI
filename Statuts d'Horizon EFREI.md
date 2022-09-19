@@ -280,7 +280,7 @@ Les Membres de l'Association disposent d'un canal de discussion où ils peuvent 
 
 Une preuve d'activité inclut :
 
--   la présence de bonne foi en réunion (si la réunion est en distanciel, la caméra ou le microphone de la personne doit être ouvert au moins une fois), dans l'objectif de contribuer et d'apporter un avis pertinent ;
+-   la présence de bonne foi en réunion (si la réunion est en distanciel, la caméra ou le microphone de la personne doit être ouvert au moins une fois, ou le membre doit manifester de sa pésence via des messages textuels visibles à tous les membres connectés à la réunion de l'assemblée s'il est dans l'incapacité d'utiliser sa caméra ou son microphone), dans l'objectif de contribuer et d'apporter un avis pertinent ;
 -   la présence en tant qu'animateur à un événement organisé ou soutenu par l'Association, au nom d'Horizon EFREI ;
 -   la création de contenu (communication, montage vidéo, contribution de code) ;
 -   l'organisation d'un événement (cours, mentorat, conférence, événement de cohésion, événement de communication) ;
@@ -372,7 +372,7 @@ Un Membre du Bureau Restreint ou un Adjoint à un Membre du Bureau Restreint doi
 
 L'annonce donnera des informations sur le déroulement de l'Assemblée et sur la procédure à suivre pour voter par procuration, paraphrasant le paragraphe suivant :
 
-> "Dans le cas où un Membre Adhérent ne peut pas se présenter à l'Assemblée Générale, il devra contacter un Membre du Bureau Restreint où il explique son motif d'absence avant l'Assemblée. Si le Membre est habilité à voter, il devra faire une demande de procuration et léguer son vote à une autre personne (qui n'a pas de limite sur le nombre de procurations qu'elle peut recevoir). Il est obligatoire de léguer son vote à quelqu'un qui est habilité à voter, et il n'est pas possible de rendre son vote blanc sur tous les points de l'Assemblée Générale".
+> "Dans le cas où un Membre Adhérent ne peut pas se présenter à l'Assemblée Générale, il devra contacter un Membre du Bureau Restreint où il explique son motif d'absence avant l'Assemblée. Le Membre devra alors faire une demande de procuration et léguer son vote à une autre personne (qui n'a pas de limite sur le nombre de procurations qu'elle peut recevoir). Il est obligatoire de léguer son vote à quelqu'un qui est habilité à voter."
 
 Un Membre Adhérent doit ainsi obligatoirement être présent à l'Assemblée ou faire une procuration pour voter ; le Membre Adhérent manque sinon à son devoir, ce qui peut justifier une radiation.
 
@@ -393,11 +393,11 @@ Tout le monde peut intervenir lors de l'Assemblée en prenant la parole. Cependa
 
 #### 9.4. Assemblée Générale Ordinaire
 
-Une Assemblée Générale Ordinaire (AGO), ou Passation, doit avoir lieu le 15 mars de chaque année. Elle a pour but de présenter le Bilan Moral et Comptable de l'Association (décrit dans le [Règlement Intérieur de l'Association : "ARTICLE I - Documents Officiels de l'Association"](Règlement%20Intérieur%20d'Horizon%20EFREI.md#article-i---documents-officiels-de-lassociation)), d'élire le nouveau Bureau de l'Association, de faire des propositions de modifications des Statuts et de statuer sur les sujets remontés par les Membres Adhérents.
+Une Assemblée Générale Ordinaire (AGO), ou Passation, doit avoir lieu le 15 mars de chaque année (à plus ou moins 15 jours près). Elle a pour but de présenter le Bilan Moral et Comptable de l'Association (décrit dans le [Règlement Intérieur de l'Association : "ARTICLE I - Documents Officiels de l'Association"](Règlement%20Intérieur%20d'Horizon%20EFREI.md#article-i---documents-officiels-de-lassociation)), d'élire le nouveau Bureau de l'Association, de faire des propositions de modifications des Statuts et de statuer sur les sujets remontés par les Membres Adhérents.
 
 En amont de l'Assemblée Générale Ordinaire, il est nécessaire de préparer le Bilan Moral et Comptable de l'Association pour l'année passée, présentant les activités réalisées, l'évolution de l'équipe et l'utilisation des fonds de l'Association durant l'année.
 
-Il est également nécessaire que le Bureau présente un nouveau Bureau à élire. Un appel à candidature doit être passé dès le 22 février ; les candidatures seront réceptionnées jusqu'au 10 mars dernier délai. Parmi les candidats pour chaque poste, un seul doit être sélectionné au travers d'entretiens organisés par deux Membres du précédent Bureau (un Membre du Bureau Restreint, en général le Secrétaire, et le Membre du Bureau qui a le rôle qui correspond le mieux à celui que le candidat souhaite prendre). Si une seule candidature est présentée pour un poste, le candidat est automatiquement sélectionné. Les candidats sélectionnés constitueront le nouveau Bureau présenté pour l'élection en Assemblée Générale.
+Il est également nécessaire que le Bureau présente un nouveau Bureau à élire. Un appel à candidature doit être passé minimum deux semaines avant la date fixée de l'Assemblée Générale Ordinaire ; les candidatures seront réceptionnées jusqu'à une semaine avant la date fixée de l'Assemblée Générale Ordinaire. Parmi les candidats pour chaque poste, un seul doit être sélectionné au travers d'entretiens organisés par deux Membres du précédent Bureau (un Membre du Bureau Restreint, en général le Secrétaire, et le Membre du Bureau qui a le rôle qui correspond le mieux à celui que le candidat souhaite prendre). Si une seule candidature est présentée pour un poste, le candidat est automatiquement sélectionné. Les candidats sélectionnés constitueront le nouveau Bureau présenté pour l'élection en Assemblée Générale.
 
 Il est impératif que le nouveau Bureau présenté ait les trois Membres du Bureau Restreint ainsi qu'au moins deux Responsables de Pôle définis ; les autres rôles du nouveau Bureau peuvent rester inoccupés pour l'Assemblée Générale Ordinaire et être remplis plus tard durant le nouveau mandat.
 
@@ -432,7 +432,7 @@ Une Assemblée Générale Extraordinaire connaît :
 
 #### 9.6. Vote
 
-Le vote des Membres Adhérents est un vote simple, où les Membres Adhérents peuvent voter pour ou contre un point de l'ordre du jour ou alors voter blanc. Le vote d'un Membre Adhérent compte pour un, additionné au nombre de procurations de vote dont le Membre Adhérent est responsable. Si le Membre Adhérent est responsable de procurations, il peut éventuellement les diviser en des votes "oui", "non" et blancs.
+Le vote des Membres Adhérents est un vote simple, où les Membres Adhérents peuvent voter pour ou contre un point de l'ordre du jour ou alors voter blanc. Le vote d'un Membre Adhérent compte pour un, additionné au nombre de procurations de vote dont le Membre Adhérent est responsable. Si le Membre Adhérent est responsable de procurations, il peut éventuellement les diviser en des votes "pour", "contre" et blancs.
 
 Les votes en Assemblées du Bureau n'inclus pas le vote blanc.
 
@@ -442,7 +442,7 @@ Des abstentions répétées peuvent être un motif pour qu'un Membre Adhérent s
 
 Une majorité de votes blancs invalide un vote. En cas de vote invalidé, un débat a lieu et un nouveau vote prend place durant une même séance. Si le vote est toujours invalidé par un vote blanc, le sujet est considéré comme non-traité et pourra être présenté de nouveau au cours d'une nouvelle séance.
 
-Si la majorité des votes ne sont pas blancs, on considère les votes non-blancs : si une majorité absolue de ces votes est "oui", la décision votée est acceptée. Sinon, la décision votée est refusée. En cas d'égalité entre les votes "oui" et "non", la voix du Président compte double.
+Si la majorité des votes ne sont pas blancs, on considère les votes non-blancs : si une majorité absolue de ces votes est "pour", la décision votée est acceptée. Sinon, la décision votée est refusée. En cas d'égalité entre les votes "pour" et "contre", la voix du Président compte double.
 
 Si un Membre Adhérent n'a pas fait de procuration et n'est pas présent durant une Assemblée Générale, son vote ne peut pas être compté rétroactivement.
 
