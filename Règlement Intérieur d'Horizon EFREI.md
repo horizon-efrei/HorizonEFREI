@@ -134,7 +134,6 @@ via :
 
     Horizon EFREI pourra également apporter son soutien à tout projet jugé pertinent par le Bureau Restreint, avec validation en Assemblée Générale Ordinaire ;
 
-
 #### 6.1. Mentorat Horizon
 
 Le Mentorat Horizon met en relation des étudiants mentorés (qualifiés de "juniors") et des étudiants d'années plus avancées qui les soutiennent et mentorent (qualifiés de "mentors"). Cette mise en relation se fait via la plateforme de discussion "Horizon : Mentorat 🌱" et a pour événement clé une permanence hebdomadaire qui a lieu sur le campus d'EFREI PARIS.
@@ -153,11 +152,10 @@ Si la permanence ne peut pas avoir lieu une semaine donnée, les Membres Adhére
 
 L'Association administre 5 serveurs Discord sur lesquels Horizon EFREI gère son organisation et réalise ses activités en ligne :
 
-
 -   "Horizon : Ef'Réussite ⭐" ([https://discord.gg/7WKfyhghyn](https://discord.gg/7WKfyhghyn)) - Plateforme de partage de ressources pédagogiques, de séances de révisions et d'entraide étudiante, administrée et animée par le Pôle Ef'Réussite de l'Association.
 -   "Horizon : OpenDEV 🌐" ([https://discord.gg/yRHTW7DQ5R](https://discord.gg/yRHTW7DQ5R)) - Plateforme de projets web open-source, de partage de ressources en rapport avec le web et de soutien de projets web étudiants utilisant des technologies JavaScript, animée par le Pôle Développement de l'Association.
 -   "Horizon : Bot 🤖" ([https://discord.gg/zjCDgU6wTN](https://discord.gg/zjCDgU6wTN)) - Plateforme de projets de développement de bots Discord pour les serveurs d'Horizon, avec une utilité pouvant s'étendre aux serveurs d'étudiants en général, animée par le Pôle Développement de l'Association.
--   "Horizon : Mentorat 🌱" ([https://discord.gg/G7fWxQZXqF](https://discord.gg/G7fWxQZXqF)) - Plateforme du Mentorat Horizon, animée par le Pôle Mentorat de l'Association.
+-   "Horizon : Co-Op 🌱" ([https://discord.gg/G7fWxQZXqF](https://discord.gg/G7fWxQZXqF)) - Plateforme du soutien d'Horizon, animée par le Pôle Co-Op de l'Association.
 -   "Horizon : L'Équipe 🏆" ([https://discord.gg/7WKfyhghyn](https://discord.gg/7WKfyhghyn)) - Plateforme interne de l'équipe de l'Association, permettant aux différents Pôles de s'organiser et aux Membres Adhérents d'être tenus au courant des dernières annonces du Bureau, animée par le Bureau de l'Association.
 
 #### 7.2. Comptes sur les réseaux sociaux
@@ -182,13 +180,11 @@ L'Association est actuellement composée de 5 Pôles :
 
 -   Le Pôle Ef'Réussite : le Pôle gère la plateforme "Horizon : Ef'Réussite ⭐" et permet l'organisation régulière de séances de révision grâce à son réseau de bénévoles (appelés "Étudiants-Professeurs", ou "eProfs").
 
--  Le Pôle Développement : le Pôle gère les plateformes "Horizon : Web 🌐" et "Horizon : Bot 🤖", orchestre la gestion des projets de développement d'Horizon, l'organisation régulière de séances de travail et le partage de ressources en rapport avec le web.
+-  Le Pôle OpenDEV : le Pôle gère les plateformes "Horizon : OpenDEV 🌐" et "Horizon : Bot 🤖", orchestre la gestion des projets de développement d'Horizon, l'organisation régulière de séances de travail et le soutien de projets de développement d'initiatives étudiantes.
 
--  Le Pôle Mentorat : le Pôle gère la plateforme "Horizon : Mentorat 🌱", orchestre la gestion du Mentorat Horizon, l'organisation régulière de séances de travail et le partage de ressources en rapport avec le Mentorat.
+-  Le Pôle Co-Op : le Pôle gère la plateforme "Horizon : Co-Op 🌱", orchestre la gestion des séances de soutien d'Horizon, l'organisation régulière de séances de travail et le partage de ressources en rapport avec la Co-Op.
 
 - Le Pôle Communication et Design : le Pôle gère les comptes sur les réseaux sociaux de l'Association et y publie régulièrement des communications présentant les projets et événements de l'Association. Le Pôle produit également des affiches, des flyers ainsi que des courtes vidéos, et s'occupe d'acheter et de distribuer les goodies de l'Association. Le Pôle organise également des événements de communication et gère le stand représentant Horizon EFREI à des événements inter-associations.
-
-- Le Pôle Vidéo : le Pôle gère la vérification, le montage et la mise à disposition des cours et sessions de révision enregistrés par Horizon EFREI, et peut assister le Pôle Communication et Design dans sa création de contenu audio-visuel.
 
 #### 8.1. Modification des Pôles de l'Association
 
