@@ -21,7 +21,7 @@ Statuts d'Horizon EFREI<br>du 30 mars 2022
   - [**ARTICLE VIII - Membres**](#article-viii---membres)
     - [8.1. Types de Membres](#81-types-de-membres)
     - [8.2. Preuve d'activité](#82-preuve-dactivité)
-    - [8.3 Membres du Bureau](#83-membres-du-bureau)
+    - [8.3. Membres du Bureau](#83-membres-du-bureau)
     - [8.4. Membres de Pôle](#84-membres-de-pôle)
     - [8.5. Membres Participants](#85-membres-participants)
     - [8.6. Membres Anciens](#86-membres-anciens)
@@ -283,12 +283,12 @@ Une preuve d'activité inclut :
 -   la présence de bonne foi en réunion (si la réunion est en distanciel, la caméra ou le microphone de la personne doit être ouvert au moins une fois, ou le membre doit manifester de sa pésence via des messages textuels visibles à tous les membres connectés à la réunion de l'assemblée s'il est dans l'incapacité d'utiliser sa caméra ou son microphone), dans l'objectif de contribuer et d'apporter un avis pertinent ;
 -   la présence en tant qu'animateur à un événement organisé ou soutenu par l'Association, au nom d'Horizon EFREI ;
 -   la création de contenu (communication, montage vidéo, contribution de code) ;
--   l'organisation d'un événement (cours, mentorat, conférence, événement de cohésion, événement de communication) ;
+-   l'organisation d'un événement (cours, co-op, conférence, événement de cohésion, événement de communication) ;
 -   une réponse de la part du Membre après une prise de contact de la part d'un Membre du Bureau, prouvant la motivation du Membre, justifiant son manque d'activité sur la période et proposant une solution (exemples : être actif seulement pour certains événements, être actif plus tard, devenir Membre Ancien, quitter l'Association) au Membre du Bureau.
 
 Une preuve d'activité expire au bout de trois semaines.
 
-#### 8.3 Membres du Bureau
+#### 8.3. Membres du Bureau
 
 Les Membres du Bureau constituent le corps exécutif de l'Association (cf. [**ARTICLE VII - Conseil d'Administration (Bureau)**](#article-vii---conseil-dadministration-bureau)).
 
