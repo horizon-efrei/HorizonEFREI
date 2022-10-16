@@ -18,7 +18,7 @@ Ont donné procuration de vote (2 membres) :
 - Thibault DENIER lègue son vote à David Gorgette ;
 - Etienne GAILLARD lègue son vote à Pierre-Marie HERRBURGER–PIETRI ;
 
-Sont absents sans avoir donné procuration (xx membres) : Al Amine MOUHAMAD DJIBRIL (excusé) ; Arthur CATELAND ; Benjamin ROSSIGNOL ; Bérénice CASTAING (radiée) ; Bienvenu KADIEBWE ; Brand TIKOUE TIKOUE ; Briyan Kessel KOUAM FOZEU ; Chloé BASTONG  ; David GORGETTE ; Esteban VINCENT ; Gatien Junior Lewis DJOMO (radié, n'est plus étudiant à Efrei Paris) ; Hadrien GENUER ; Lucas BRANCOLINI ; Marc-Aurel ALIOZA (radié) ; Matthieu HANANIA ; Matthieu ROQUEJOFFRE ; Mélisande GRÉGOIRE--BEGRANGER (excusée) ; Nathan (Ness) ; Nicolas VIOLOT (radié) ; Paul BRION (radié) ; Pierre-Marie HERRBURGER--PIETRI ; Pierrick DELRIEU ; Quentin MAROIS ; Quentin RAULT ; Roméo BERN ; Théo LASNIER ; Valentin LEFÈVRE ; Vincent LABOURET ; Warren AGBANOU ; Ylan HEBRON.
+Sont absents sans avoir donné procuration (30 membres) : Al Amine MOUHAMAD DJIBRIL (excusé) ; Arthur CATELAND ; Benjamin ROSSIGNOL ; Bérénice CASTAING (radiée) ; Bienvenu KADIEBWE ; Brand TIKOUE TIKOUE ; Briyan Kessel KOUAM FOZEU ; Chloé BASTONG  ; David GORGETTE ; Esteban VINCENT ; Gatien Junior Lewis DJOMO (radié, n'est plus étudiant à Efrei Paris) ; Hadrien GENUER ; Lucas BRANCOLINI ; Marc-Aurel ALIOZA (radié) ; Matthieu HANANIA ; Matthieu ROQUEJOFFRE ; Mélisande GRÉGOIRE--BEGRANGER (excusée) ; Nathan VIAU ; Nicolas VIOLOT (radié) ; Paul BRION (radié) ; Pierre-Marie HERRBURGER--PIETRI ; Pierrick DELRIEU ; Quentin MAROIS ; Quentin RAULT ; Roméo BERN ; Théo LASNIER ; Valentin LEFÈVRE ; Vincent LABOURET ; Warren AGBANOU ; Ylan HEBRON.
 
 L’Assemblée Générale désigne Ivan STEPANIAN en qualité de Président de séance et Elliot MAISL en qualité de Secrétaire de séance.
 
@@ -39,21 +39,21 @@ Le Président rappelle que l’Assemblée Générale Ordinaire est appelée à s
 ### **1ère délibération** : Les membres sont appelés à voter pour ou contre le nouveau bureau.
 
 Après avoir présenté l'ancien Bureau, le Président présente le nouveau Bureau de l'Association, composé de :
-  - Elliot MAISL, Président ;
-  - Mélisande GREGOIRE–BEGRANGER, Secrétaire ;
-  - Louis GUÉRIN, Trésorier ;
-  - Al Amine MOUHAMAD DJIBRIL, Vice-secrétaire ;
-  - Clément WAWSZCZYK, Vice-trésorier ;
-  - Kadiatou YATASSAYE, Responsable Pôle Communication & Design ;
-  - Maxime BEZOT, Responsable Pôle Co-op ;
-  - Pierre-Marie HERRBURGER–PIETRI, Responsable Pôle OpenDEV ;
-  - Laura SAADA, Responsable Pôle Ef'Réussite ;
-  - Vincent NOURY, Chargé de DSI.
+- Elliot MAISL, Président ;
+- Mélisande GREGOIRE–BEGRANGER, Secrétaire ;
+- Louis GUÉRIN, Trésorier ;
+- Al Amine MOUHAMAD DJIBRIL, Vice-secrétaire ;
+- Clément WAWSZCZYK, Vice-trésorier ;
+- Kadiatou YATASSAYE, Responsable Pôle Communication & Design ;
+- Maxime BEZOT, Responsable Pôle Co-op ;
+- Pierre-Marie HERRBURGER–PIETRI, Responsable Pôle OpenDEV ;
+- Laura SAADA, Responsable Pôle Ef'Réussite ;
+- Vincent NOURY, Chargé de DSI.
 
 Ainsi, les membres suivants, anciens Membre du Bureau, deviennent automatiquement Membre Ancien :
-  - Ivan STEPANIAN ;
-  - Nada NADIRE ;
-  - Théo LASNIER.
+- Ivan STEPANIAN ;
+- Nada NADIRE ;
+- Théo LASNIER.
 
 David GORGETTE prévient que la transition entre lui et sa successeur, Laura SAADA, se fera sur le cours de plusieurs mois et pourra durer jusqu'à mars 2023.
 
