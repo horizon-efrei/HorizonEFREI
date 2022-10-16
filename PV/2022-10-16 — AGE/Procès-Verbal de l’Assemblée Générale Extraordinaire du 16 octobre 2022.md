@@ -24,7 +24,7 @@ L’Assemblée Générale désigne Ivan STEPANIAN en qualité de Président de s
 
 Le Président rappelle que l’Assemblée Générale Ordinaire est appelée à statuer sur l’ordre du jour suivant :
 
-- Présentation du [Bilan Moral](Bilan%20Moral%20et%20Comptable%20présenté%20en%20AGO.pdf) ;
+- Présentation du [Bilan Moral](Support%20de%20présentation%20pour%20l%27AGE.pdf) ;
 - Passations importantes ;
 - Changements au sein du Pôle Dév ;
 - Changements au sein du Pôle Mentorat ;
