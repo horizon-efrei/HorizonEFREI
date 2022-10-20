@@ -12,17 +12,17 @@ Heure de fin : 17h14
 
 Le 16 octobre 2022 à 16h00, les membres de l’Association se sont réunis en Assemblée Générale Extraordinaire sur le serveur Discord "Horizon : L'Équipe 🏆" de l’Association.
 
-Sont présents (26 membres) : Ariprakash RANGANADIN ; Audrey DAMIBA ; Billy SASORITH ; Cécile LECOIN ; Clément WAWSZCZYK ; Elliot MAISL ; Harrison MYSENGSAY ; Ivan STEPANIAN ; Julien KLEIN ; Kadiatou YATTASSAYE ; Laura SAADA ; Lionel TOGLAN ; Louis GUÉRIN ; Mathis HOGREL ; Maxime BEZOT ; Médéric PENIGUEL ; Melissa LACHEB ; Merouane SOUADJI ; Nada NADIRE ; Nathan MOREL ; Quentin BAUDET ; Quentin MAROIS ; Raphaël CADILLAT ; Vincent Noury ; Yohan VILLIERS ; Yoke NGASSA.
+Sont présents (27 membres) : Ariprakash RANGANADIN ; Audrey DAMIBA ; Billy SASORITH ; Cécile LECOIN ; Clément WAWSZCZYK ; David GORGETTE ; Elliot MAISL ; Harrison MYSENGSAY ; Ivan STEPANIAN ; Julien KLEIN ; Kadiatou YATTASSAYE ; Laura SAADA ; Lionel TOGLAN ; Louis GUÉRIN ; Mathis HOGREL ; Maxime BEZOT ; Médéric PENIGUEL ; Melissa LACHEB ; Merouane SOUADJI ; Nada NADIRE ; Nathan MOREL ; Quentin BAUDET ; Quentin MAROIS ; Raphaël CADILLAT ; Vincent Noury ; Yohan VILLIERS ; Yoke NGASSA.
 
 Ont donné procuration de vote (2 membres) :
-- Thibault DENIER lègue son vote à David Gorgette ;
+- Thibault DENIER lègue son vote à David GORGETTE ;
 - Etienne GAILLARD lègue son vote à Pierre-Marie HERRBURGER–PIETRI ;
 
-Sont absents sans avoir donné procuration (30 membres) : Al Amine MOUHAMAD DJIBRIL (excusé) ; Arthur CATELAND ; Benjamin ROSSIGNOL ; Bérénice CASTAING (radiée) ; Bienvenu KADIEBWE ; Brand TIKOUE TIKOUE ; Briyan Kessel KOUAM FOZEU ; Chloé BASTONG  ; David GORGETTE ; Esteban VINCENT ; Gatien Junior Lewis DJOMO (radié, n'est plus étudiant à Efrei Paris) ; Hadrien GENUER ; Lucas BRANCOLINI ; Marc-Aurel ALIOZA (radié) ; Matthieu HANANIA ; Matthieu ROQUEJOFFRE ; Mélisande GRÉGOIRE--BEGRANGER (excusée) ; Nathan VIAU ; Nicolas VIOLOT (radié) ; Paul BRION (radié) ; Pierre-Marie HERRBURGER--PIETRI ; Pierrick DELRIEU ; Quentin MAROIS ; Quentin RAULT ; Roméo BERN ; Théo LASNIER ; Valentin LEFÈVRE ; Vincent LABOURET ; Warren AGBANOU ; Ylan HEBRON.
+Sont absents sans avoir donné procuration (29 membres) : Al Amine MOUHAMAD DJIBRIL (excusé) ; Arthur CATELAND ; Benjamin ROSSIGNOL ; Bérénice CASTAING (radiée) ; Bienvenu KADIEBWE ; Brand TIKOUE TIKOUE ; Briyan Kessel KOUAM FOZEU ; Chloé BASTONG  ; Esteban VINCENT ; Gatien Junior Lewis DJOMO (radié, n'est plus étudiant à Efrei Paris) ; Hadrien GENUER ; Lucas BRANCOLINI ; Marc-Aurel ALIOZA (radié) ; Matthieu HANANIA ; Matthieu ROQUEJOFFRE ; Mélisande GRÉGOIRE--BEGRANGER (excusée) ; Nathan VIAU ; Nicolas VIOLOT (radié) ; Paul BRION (radié) ; Pierre-Marie HERRBURGER--PIETRI ; Pierrick DELRIEU ; Quentin RAULT ; Roméo BERN ; Théo LASNIER ; Valentin LEFÈVRE ; Vincent LABOURET ; Warren AGBANOU ; Ylan HEBRON.
 
 L’Assemblée Générale désigne Ivan STEPANIAN en qualité de Président de séance et Elliot MAISL en qualité de Secrétaire de séance.
 
-Le Président rappelle que l’Assemblée Générale Ordinaire est appelée à statuer sur l’ordre du jour suivant :
+Le Président rappelle que l’Assemblée Générale Extraordinaire est appelée à statuer sur l’ordre du jour suivant :
 
 - Présentation du [Bilan Moral](Support%20de%20présentation%20pour%20l%27AGE.pdf) ;
 - Passations importantes ;
@@ -53,6 +53,7 @@ Après avoir présenté l'ancien Bureau, le Président présente le nouveau Bure
 Ainsi, les membres suivants, anciens Membre du Bureau, deviennent automatiquement Membre Ancien :
 - Ivan STEPANIAN ;
 - Nada NADIRE ;
+- David GORGETTE ;
 - Théo LASNIER.
 
 David GORGETTE prévient que la transition entre lui et sa successeur, Laura SAADA, se fera sur le cours de plusieurs mois et pourra durer jusqu'à mars 2023.
@@ -61,21 +62,21 @@ Ivan STEPANIAN prévient que la transition entre lui et son successeur, Elliot M
 
 David GORGETTE annonce que bien que le poste de Chargé de DSI était vacant dans l'ancien bureau, il était en pratique occupé conjointement entre lui et Vincent NOURY. La prise de fonction de Vincent NOURY est donc maintenant officielle et se fera sur le cours de plusieurs semaines.
 
-#### Résultats du vote : 24 POUR, 0 CONTRE, 0 VOTE BLANC, 2 ABSTENTIONS (et par procuration : 1 VOTE BLANC). Le nouveau bureau est adopté par vote majoritaire.
-#### TOTAL : **24 POUR, 0 CONTRE, 1 VOTE BLANC, 2 ABSTENTIONS**. Le nouveau bureau est adopté par vote majoritaire.
+#### Résultats du vote : 24 POUR, 0 CONTRE, 0 VOTE BLANC, 3 ABSTENTIONS (et par procuration : 1 VOTE BLANC). Le nouveau bureau est adopté par vote majoritaire.
+#### TOTAL : **24 POUR, 0 CONTRE, 1 VOTE BLANC, 3 ABSTENTIONS**. Le nouveau bureau est adopté par vote majoritaire.
 
 ### **2ème délibération** : Les membres sont appelés à voter pour ou contre la modification du Pôle Dév en Pôle OpenDEV et son changement de mission.
 
-Ivan STEPANIAN rappelle l'ancien objectif du Pôle Dév, qui était de géré des projets internes à l'Association à l'instar du bot Discord HorizonBot ou du site web HorizonWeb. Il précise également que HorizonWeb est un projet initié par l'Association mais qu'il a repris par une startup qu'il a fondé, Okampus, comme le lui permettait la license open-source du projet. Ce sera Okampus qui sera utilisé par l'école, l'Association est donc libre de continuer ou non à maintenir HorizonWeb, mais il ne sera pas utilisé.
+Ivan STEPANIAN rappelle l'ancien objectif du Pôle Dév, qui était de gérer des projets internes à l'Association à l'instar du bot Discord HorizonBot ou du site web HorizonWeb. Il précise également que HorizonWeb est un projet initié par l'Association, qu'il a repris dans sa startup comme le lui permettait la license. C'est cette startup, dénommée Okampus, qui sera utilisé par l'école. L'Association est donc libre de continuer ou non à maintenir HorizonWeb, mais il ne sera pas utilisé officiellement.
 
 Il explique ensuite que le Pôle Dév se renouvelle maintenant est que son objectif est désormais d'aider des étudiants à améliorer leurs projets, personnels ou académiques, en leur apportant des conseils théoriques et pratiques (compétences de gestion de projet ou de développement...). Le Pôle Dév est donc devenu le Pôle OpenDEV pour refléter cette nouvelle mission, ouverte à tous les étudiants de l'école.
 
-Il y a actuellement deux projets candidats pour rejoindre le pôle, un projet porté par Lionel TOGLAN, et un par Paul MAIRESSE. Lionel TOGLAN, présent, explique qu'il a pour but de créer une application se servant de l'appareil photo des téléphones pour s'en servir de pipette et pouvoir trouver la couleur de ce que l'on pointe. Toutefois, son idée projet est encore susceptible de changer. Paul MAIRESSE étant absent, Ivan STEPANIAN explique qu'il souhaite créer un site permettant de superposer des cartes ou des images satellites avec des cartes Google Maps, afin d'identifier automatiquement où elle se trouve et bénéficier de toutes les informations disponibles sur Google Maps. Cela pourra être utile pour les cartes de randonnées par exemple.
+Il y a actuellement deux projets candidats pour rejoindre le Pôle, un projet porté par Lionel TOGLAN, et un par Paul MAIRESSE. Lionel TOGLAN, présent, explique qu'il a pour but de créer une application se servant de l'appareil photo des téléphones pour s'en servir de pipette et pouvoir trouver la couleur de ce que l'on pointe. Toutefois, son idée projet est encore susceptible de changer. Paul MAIRESSE étant absent, Ivan STEPANIAN explique qu'il souhaite créer un site permettant de superposer des cartes ou des images satellites avec des cartes Google Maps, afin d'identifier automatiquement sa position géographique et bénéficier de toutes les informations disponibles sur Google Maps. Cela pourra être utile pour les cartes de randonnées par exemple.
 
 David GORGETTE précise qu'il a voté blanc à cause de la similarité de la mission avec l'Association OnePanthéon dont il est Vice-Président. Ivan STEPANIAN conclut que le Pôle OpenDEV reste en période d'essai et que si son activité ne se développe pas, notamment à cause de la superposition de missions avec OnePanthéon, il sera modifié ou arrêté.
 
-#### Résultats du vote : 19 POUR, 0 CONTRE, 7 VOTES BLANCS, 1 ABSTENTION (et par procuration : 1 VOTE BLANC).
-#### TOTAL : **19 POUR, 0 CONTRE, 8 VOTES BLANCS, 1 ABSTENTION**. La mesure est adoptée par vote majoritaire.
+#### Résultats du vote : 19 POUR, 0 CONTRE, 7 VOTES BLANCS, 2 ABSTENTION (et par procuration : 1 VOTE BLANC).
+#### TOTAL : **19 POUR, 0 CONTRE, 8 VOTES BLANCS, 2 ABSTENTION**. La mesure est adoptée par vote majoritaire.
 
 ### **3ème délibération** : Les membres sont appelés à voter pour ou contre la modification du Pôle Mentorat en Pôle Co-op et son changement de mission.
 
@@ -85,8 +86,8 @@ Il explique ensuite qu'à cause du manque de Mentors, le Pôle Mentorat est à p
 
 Maxime BÉZOT précise que les nouvelles séances, toujours hebdomadaires, se dérouleront le mercredi, à la fois pour les L1 que les L2.
 
-#### Résultats du vote : 18 POUR, 0 CONTRE, 6 VOTES BLANCS, 2 ABSTENTIONS (et par procuration : 1 VOTE BLANC).
-#### TOTAL : **18 POUR, 0 CONTRE, 7 VOTES BLANCS, 2 ABSTENTIONS**. La mesure est adoptée par vote majoritaire.
+#### Résultats du vote : 18 POUR, 0 CONTRE, 6 VOTES BLANCS, 3 ABSTENTIONS (et par procuration : 1 VOTE BLANC).
+#### TOTAL : **18 POUR, 0 CONTRE, 7 VOTES BLANCS, 3 ABSTENTIONS**. La mesure est adoptée par vote majoritaire.
 
 ### **4ème délibération** : Les membres sont appelés à voter pour ou contre la mise en veille du Pôle Vidéo.
 
@@ -96,8 +97,8 @@ Elliot MAISL annonce ensuite la décision de mettre ce Pôle en veille. Il soul�
 
 Ivan STEPANIAN et David GORGETTE ajoutent que si un enregistrement à beosin d'être modifié en urgence, pour cacher des informations personnelles par exemple, les anciens membres du Pôle Vidéo restent disponibles pour le faire.
 
-#### Résultats du vote : 19 POUR, 0 CONTRE, 4 VOTES BLANCS, 3 ABSTENTIONS (et par procuration : 1 VOTE BLANC).
-#### TOTAL : **19 POUR, 0 CONTRE, 5 VOTES BLANCS, 3 ABSTENTIONS**. La mesure est adoptée par vote majoritaire.
+#### Résultats du vote : 19 POUR, 0 CONTRE, 4 VOTES BLANCS, 4 ABSTENTIONS (et par procuration : 1 VOTE BLANC).
+#### TOTAL : **19 POUR, 0 CONTRE, 5 VOTES BLANCS, 4 ABSTENTIONS**. La mesure est adoptée par vote majoritaire.
 
 ### **5ème délibération** : Les membres sont appelés à voter pour ou contre la proposition des nouveaux Statuts et du nouveau Règlement Intérieur.
 
@@ -109,8 +110,8 @@ Les Statuts et Règlement Intérieur ont également été légèrement altérés
 
 Elliot MAISL rappelle que les documents légaux de l'Association (Statuts, Réglemement Intérieur et PV des Assemblées Générales) sont disponibles sur le compte GitHub de l'Association, et que les membres peuvent les consulter à tout moment.
 
-#### Résultats du vote : 23 POUR, 0 BLANC, 0 VOTE BLANC, 3 ABSTENTIONS (et par procuration : 1 POUR).
-#### TOTAL : **24 POUR, 0 CONTRE, 0 VOTE BLANC, 3 ABSTENTIONS**. La mesure est adoptée par vote majoritaire.
+#### Résultats du vote : 23 POUR, 0 BLANC, 0 VOTE BLANC, 4 ABSTENTIONS (et par procuration : 1 POUR).
+#### TOTAL : **24 POUR, 0 CONTRE, 0 VOTE BLANC, 4 ABSTENTIONS**. La mesure est adoptée par vote majoritaire.
 
 Les Membres du Bureau s'étant exprimés, le Président clot la séance.
 
