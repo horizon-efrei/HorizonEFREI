@@ -214,11 +214,11 @@ Le présent Règlement Intérieur comporte 10 articles et est établi sur 9 page
 
 Signatures des Membres du Bureau Restreint :
 
-Ivan STEPANIAN, Président\
-<img alt="Ivan STEPANIAN" src="Signatures/Règlement%20Intérieur/Ivan%20STEPANIAN.png" height="70" />
+Elliot MAISL, Président\
+<img alt="Elliot MAISL" src="Signatures/Règlement%20Intérieur/Elliot%20MAISL.png" height="70" />
 
-Nada NADIRE, Trésorière\
-<img alt="Nada NADIRE" src="Signatures/Règlement%20Intérieur/Nada%20NADIRE.png" height="70" />
+Louis GUÉRIN, Trésorier\
+<img alt="Louis GUÉRIN" src="Signatures/Règlement%20Intérieur/Louis%20GUÉRIN.png" height="70" />
 
 Mélisande GRÉGOIRE--BEGRANGER, Secrétaire Générale\
 <img alt="Mélisande GRÉGOIRE--BEGRANGER" src="Signatures/Règlement%20Intérieur/Mélisande%20GRÉGOIRE--BEGRANGER.png" height="70" />

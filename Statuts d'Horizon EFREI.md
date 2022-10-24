@@ -502,11 +502,11 @@ Les présents Statuts comportent 12 articles et sont établis sur 19 pages.
 
 Signatures des Membres du Bureau Restreint :
 
-Ivan STEPANIAN, Président\
-<img alt="Ivan STEPANIAN" src="Signatures/Statuts/Ivan%20STEPANIAN.png" height="70" />
+Elliot MAISL, Président\
+<img alt="Elliot MAISL" src="Signatures/Statuts/Elliot%20MAISL.png" height="70" />
 
-Nada NADIRE, Trésorière\
-<img alt="Nada NADIRE" src="Signatures/Statuts/Nada%20NADIRE.png" height="70" />
+Louis GUÉRIN, Trésorier\
+<img alt="Louis GUÉRIN" src="Signatures/Statuts/Louis%20GUÉRIN.png" height="70" />
 
 Mélisande GRÉGOIRE--BEGRANGER, Secrétaire Générale\
 <img alt="Mélisande GRÉGOIRE--BEGRANGER" src="Signatures/Statuts/Mélisande%20GRÉGOIRE--BEGRANGER.png" height="70" />

@@ -125,7 +125,7 @@ Elliot MAISL, Président\
 <img alt="Elliot MAISL" src="Signatures/Elliot%20MAISL.png" height="70" />
 
 Louis GUÉRIN, Trésorier\
-<img alt="Louis GUÉRIN" src="Signatures/Louis%20GUERIN.png" height="70" />
+<img alt="Louis GUÉRIN" src="Signatures/Louis%20GUÉRIN.png" height="70" />
 
 Mélisande GRÉGOIRE--BEGRANGER, Secrétaire\
 <img alt="Mélisande GRÉGOIRE--BEGRANGER" src="Signatures/Mélisande%20GRÉGOIRE--BEGRANGER.png" height="70" />
