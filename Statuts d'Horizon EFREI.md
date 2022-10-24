@@ -496,7 +496,7 @@ Un Article dont l'ajout est jugé pertinent (par une majorité de membres en Ass
 
 Les présents Statuts s'appliquent à tous les membres ; tout manquement aux précédents Statuts pourra être sanctionné par les Membres du Bureau.
 
-Les présents Statuts comportent 12 articles et sont établis sur 19 pages.
+Les présents Statuts comportent 12 articles et sont établis sur 16 pages.
 
 (Chaque signataire fera précéder sa signature manuscrite de la mention manuscrite « Lu et approuvé »)
 
