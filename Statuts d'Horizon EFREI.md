@@ -1,5 +1,5 @@
 <div style="text-align: center; margin-top: -0.4cm; font-size: 30px; line-height: 1.3; font-weight: 600;">
-Statuts d'Horizon EFREI<br>du 30 mars 2022
+Statuts d'Horizon EFREI<br>du 16 octobre 2022
 </div>
 
 - [**INFORMATIONS LÉGALES DE L'ASSOCIATION**](#informations-légales-de-lassociation)
