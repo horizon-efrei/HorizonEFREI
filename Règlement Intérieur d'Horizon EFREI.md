@@ -1,5 +1,5 @@
 <div style="text-align: center; margin-top: -0.4cm; font-size: 30px; line-height: 1.3; font-weight: 600;">
-Règlement Intérieur d'Horizon EFREI<br>du 30 mars 2022
+Règlement Intérieur d'Horizon EFREI<br>du 23 mars 2023
 </div>
 
 - [**DOCUMENTS OFFICIELS DE L'ASSOCIATION**](#documents-officiels-de-lassociation)
@@ -14,7 +14,7 @@ Règlement Intérieur d'Horizon EFREI<br>du 30 mars 2022
   - [**ARTICLE V - Gestion des Documents Administratifs de l'Association**](#article-v---gestion-des-documents-administratifs-de-lassociation)
 - [**ORGANISATION ACTUELLE DE L'ASSOCIATION**](#organisation-actuelle-de-lassociation)
   - [**ARTICLE VI - Moyens et Activités de l'Association**](#article-vi---moyens-et-activités-de-lassociation)
-    - [6.1. Mentorat Horizon](#61-mentorat-horizon)
+    - [6.1. Co-Op Horizon](#61-co-op-horizon)
   - [**ARTICLE VII - Plateformes de l'Association**](#article-vii---plateformes-de-lassociation)
     - [7.1. Plateformes d'activité et de gestion de l'Association](#71-plateformes-dactivité-et-de-gestion-de-lassociation)
     - [7.2. Comptes sur les réseaux sociaux](#72-comptes-sur-les-réseaux-sociaux)
@@ -118,7 +118,7 @@ via :
 
 -   la gestion et le développement des plateformes liées à l'Association (cf. [**ARTICLE VII - Plateformes de l'Association**](#article-vii---plateformes-de-lassociation)) ;
 
--   la mise en relation d'étudiants via des séances de permanences ouvertes à tous les étudiants de l'EFREI au travers du Mentorat Horizon (cf. [6.1. Mentorat Horizon](#61-mentorat-horizon)).
+-   la mise en relation d'étudiants via des séances de permanences ouvertes à tous les étudiants de l'EFREI au travers de la Co-Op Horizon (cf. [6.1. Co-Op Horizon](#61-co-op-horizon)).
 
 -   la création de projets collaboratifs et le soutien de projets collaboratifs d'étudiants de l'EFREI (dans l'acception d'Horizon EFREI, un projet collaboratif inclut : les projets bénévoles affiliés à l'objet de l'Association, à la solidarité en général, ou à tout objet lié aux loisirs, aux rencontres ou à la culture avec pour cible les étudiants ou la jeunesse ; tout projet de développement open-source ; les projets à but non-lucratif, mais potentiellement non-bénévoles, liés à l'objet de l'Association ; les projets d'entreprises liés à l'EFREI incluant une dynamique collaborative).
 
@@ -134,15 +134,15 @@ via :
 
     Horizon EFREI pourra également apporter son soutien à tout projet jugé pertinent par le Bureau Restreint, avec validation en Assemblée Générale Ordinaire ;
 
-#### 6.1. Mentorat Horizon
+#### 6.1. Co-Op Horizon
 
-Le Mentorat Horizon met en relation des étudiants mentorés (qualifiés de "juniors") et des étudiants d'années plus avancées qui les soutiennent et mentorent (qualifiés de "mentors"). Cette mise en relation se fait via la plateforme de discussion "Horizon : Mentorat 🌱" et a pour événement clé une permanence hebdomadaire qui a lieu sur le campus d'EFREI PARIS.
+La Co-Op Horizon met en relation des étudiants d'EFREI Paris nécessitant des cours de soutiens ou de révisions. Cette mise en relation se fait via la plateforme de discussion "Horizon : Co-Op 🌱" et a pour événement clé une permanence hebdomadaire qui a lieu sur le campus d'EFREI PARIS.
 
-À chaque séance, la présence doit être prise en compte par le responsable du Mentorat de la semaine.
+À chaque séance, la présence doit être prise en compte par le responsable de la Co-Op de la semaine.
 
-L'événement est principalement centré sur les révisions en vue des examens, mais une permanence de mentorat peut aussi être centrée sur un thème particulier (atelier de revue de CV, présentation d'une majeure, soutien de projets personnels...) ; ce thème doit être annoncé à l'avance.
+L'événement est principalement centré sur les révisions en vue des examens, mais une permanence de Co-Op peut aussi être centrée sur un thème particulier (atelier de revue de CV, présentation d'une majeure, soutien de projets personnels...) ; ce thème doit être annoncé à l'avance.
 
-Doivent également être annoncés en amont les horaires et les lieux de la prochaine permanence de mentorat.
+Doivent également être annoncés en amont les horaires et les lieux de la prochaine permanence de Co-Op.
 
 Si la permanence ne peut pas avoir lieu une semaine donnée, les Membres Adhérents et Participants présents sur la discussion en ligne doivent être prévenus.
 
@@ -152,8 +152,7 @@ Si la permanence ne peut pas avoir lieu une semaine donnée, les Membres Adhére
 
 L'Association administre 5 serveurs Discord sur lesquels Horizon EFREI gère son organisation et réalise ses activités en ligne :
 
--   "Horizon : Ef'Réussite ⭐" ([https://discord.gg/7WKfyhghyn](https://discord.gg/7WKfyhghyn)) - Plateforme de partage de ressources pédagogiques, de séances de révisions et d'entraide étudiante, administrée et animée par le Pôle Ef'Réussite de l'Association.
--   "Horizon : OpenDEV 🌐" ([https://discord.gg/yRHTW7DQ5R](https://discord.gg/yRHTW7DQ5R)) - Plateforme de projets web open-source, de partage de ressources en rapport avec le web et de soutien de projets web étudiants utilisant des technologies JavaScript, animée par le Pôle Développement de l'Association.
+-   "Horizon : Ef'Réussite ⭐" ([https://discord.gg/7WKfyhghyn](https://discord.gg/7WKfyhghyn) (PGE) et [https://discord.gg/XWv5tRwFTX](https://discord.gg/XWv5tRwFTX) (PEx)) - Plateforme de partage de ressources pédagogiques, de séances de révisions et d'entraide étudiante, administrée et animée par le Pôle Ef'Réussite de l'Association.
 -   "Horizon : Bot 🤖" ([https://discord.gg/zjCDgU6wTN](https://discord.gg/zjCDgU6wTN)) - Plateforme de projets de développement de bots Discord pour les serveurs d'Horizon, avec une utilité pouvant s'étendre aux serveurs d'étudiants en général, animée par le Pôle Développement de l'Association.
 -   "Horizon : Co-Op 🌱" ([https://discord.gg/G7fWxQZXqF](https://discord.gg/G7fWxQZXqF)) - Plateforme du soutien d'Horizon, animée par le Pôle Co-Op de l'Association.
 -   "Horizon : L'Équipe 🏆" ([https://discord.gg/7WKfyhghyn](https://discord.gg/7WKfyhghyn)) - Plateforme interne de l'équipe de l'Association, permettant aux différents Pôles de s'organiser et aux Membres Adhérents d'être tenus au courant des dernières annonces du Bureau, animée par le Bureau de l'Association.
@@ -178,11 +177,11 @@ L'Association a trois regroupements de dépôts sur Google Workspace (gestion in
 
 L'Association est actuellement composée de 5 Pôles :
 
--   Le Pôle Ef'Réussite : le Pôle gère la plateforme "Horizon : Ef'Réussite ⭐" et permet l'organisation régulière de séances de révision grâce à son réseau de bénévoles (appelés "Étudiants-Professeurs", ou "eProfs").
+- Le Pôle Ef'Réussite : le Pôle gère les plateformes "Horizon : Ef'Réussite ⭐" et "Horizon : Ef'Réussite - PEx ⭐" et permet l'organisation régulière de séances de révision grâce à son réseau de bénévoles (appelés "Étudiants-Professeurs", ou "eProfs").
 
--  Le Pôle OpenDEV : le Pôle gère les plateformes "Horizon : OpenDEV 🌐" et "Horizon : Bot 🤖", orchestre la gestion des projets de développement d'Horizon, l'organisation régulière de séances de travail et le soutien de projets de développement d'initiatives étudiantes.
+- Le Pôle Vidéo : le Pôle gère la vérification, le montage et la mise à disposition des cours et sessions de révision enregistrées par Horizon EFREI, et peut assister le Pôle Communication et Design dans sa création de contenu audio-visuel.
 
--  Le Pôle Co-Op : le Pôle gère la plateforme "Horizon : Co-Op 🌱", orchestre la gestion des séances de soutien d'Horizon, l'organisation régulière de séances de travail et le partage de ressources en rapport avec la Co-Op.
+- Le Pôle Co-Op : le Pôle gère la plateforme "Horizon : Co-Op 🌱", orchestre la gestion des séances de soutien d'Horizon, l'organisation régulière de séances de travail et le partage de ressources en rapport avec la Co-Op.
 
 - Le Pôle Communication et Design : le Pôle gère les comptes sur les réseaux sociaux de l'Association et y publie régulièrement des communications présentant les projets et événements de l'Association. Le Pôle produit également des affiches, des flyers ainsi que des courtes vidéos, et s'occupe d'acheter et de distribuer les goodies de l'Association. Le Pôle organise également des événements de communication et gère le stand représentant Horizon EFREI à des événements inter-associations.
 
@@ -220,5 +219,5 @@ Elliot MAISL, Président\
 Louis GUÉRIN, Trésorier\
 <img alt="Louis GUÉRIN" src="Signatures/Règlement%20Intérieur/Louis%20GUÉRIN.png" height="70" />
 
-Mélisande GRÉGOIRE--BEGRANGER, Secrétaire Générale\
-<img alt="Mélisande GRÉGOIRE--BEGRANGER" src="Signatures/Règlement%20Intérieur/Mélisande%20GRÉGOIRE--BEGRANGER.png" height="70" />
+Adam RILI, Secrétaire Général\
+<img alt="Adam RILI" src="Signatures/Règlement%20Intérieur/Adam%20RILI.png" height="70" />
